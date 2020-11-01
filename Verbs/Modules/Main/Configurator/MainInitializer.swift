@@ -10,7 +10,6 @@ import UIKit
 
 class MainModuleInitializer: NSObject {
 
-    //Connect with object on storyboard
     var mainViewController: MainViewController!
 
     required override init() {

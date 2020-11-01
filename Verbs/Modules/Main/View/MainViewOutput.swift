@@ -7,7 +7,9 @@
 //
 
 protocol MainViewOutput {
-    func viewIsReady()
     var listOfVerbs: [VerbEntity] { get }
+    
+    func viewIsReady()
     func doSearch(text: String) -> [VerbEntity]
+    func showDetails()
 }

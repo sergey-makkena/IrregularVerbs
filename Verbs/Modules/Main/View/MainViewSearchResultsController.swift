@@ -21,7 +21,7 @@ class MainViewSearchResultsController: UIViewController {
         }
     }
     
-    enum CellIdentifiers: String {
+    private enum CellIdentifiers: String {
         case defaultCell = "MainViewResultsCell"
     }
     
@@ -34,7 +34,7 @@ class MainViewSearchResultsController: UIViewController {
         view.estimatedRowHeight = 100.0
         view.separatorStyle = .none
         view.rowHeight = UITableView.automaticDimension
-        view.separatorInset = UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
+        view.separatorInset = UIEdgeInsets(top: 0, left: 16, bottom: 0, right: 16)
         view.showsVerticalScrollIndicator = true
         
         view.delegate = self

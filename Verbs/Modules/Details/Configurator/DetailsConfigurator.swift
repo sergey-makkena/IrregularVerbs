@@ -1,37 +1,37 @@
 //
-//  MainMainConfigurator.swift
+//  DetailsDetailsConfigurator.swift
 //  Verbs
 //
-//  Created by Sergey Mustafaev on 31/10/2020.
+//  Created by Sergey Mustafaev on 01/11/2020.
 //  Copyright © 2020 Sergey Mustafaev. All rights reserved.
 //
 
 import UIKit
 
-class MainModuleConfigurator {
+class DetailsModuleConfigurator {
 
     func configureModuleForViewInput<UIViewController>(viewInput: UIViewController) {
 
-        if let viewController = viewInput as? MainViewController {
+        if let viewController = viewInput as? DetailsViewController {
             configure(viewController: viewController)
         }
     }
 
-    private func configure(viewController: MainViewController) {
+    private func configure(viewController: DetailsViewController) {
 
-        let router = MainRouter()
+        let router = DetailsRouter()
 
-        let presenter = MainPresenter()
+        let presenter = DetailsPresenter()
         presenter.view = viewController
         presenter.router = router
 
         router.viewController = viewController
-
-        let interactor = MainInteractor()
+        
+        let interactor = DetailsInteractor()
         interactor.output = presenter
 
         presenter.interactor = interactor
-        viewController.presenter = presenter
+        viewController.output = presenter
     }
 
 }

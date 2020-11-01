@@ -17,13 +17,16 @@ class MainViewController: UIViewController {
     }()
     
     private var didSetupConstraints = false
-    
     private lazy var resultsController = MainViewSearchResultsController()
-    
+
+    private enum CellIdentifiers: String {
+        case defaultCell = "MainViewResultsCell"
+    }
+
     private lazy var searchController: UISearchController = {
         let searchController = UISearchController(searchResultsController: resultsController)
         searchController.obscuresBackgroundDuringPresentation = false
-        searchController.searchBar.placeholder = "Find a irregular verb"
+        searchController.searchBar.placeholder = "Find an irregular verb"
         searchController.searchBar.delegate = self
         searchController.searchResultsUpdater = self
         searchController.automaticallyShowsScopeBar = false
@@ -32,10 +35,6 @@ class MainViewController: UIViewController {
         return searchController
     }()
     
-    enum CellIdentifiers: String {
-        case defaultCell = "MainViewResultsCell"
-    }
-    
     private lazy var tableView: UITableView = {
         var view = UITableView()
         view.register(UINib(nibName: CellIdentifiers.defaultCell.rawValue, bundle: nil), forCellReuseIdentifier: CellIdentifiers.defaultCell.rawValue)
@@ -43,7 +42,6 @@ class MainViewController: UIViewController {
         view.translatesAutoresizingMaskIntoConstraints = false
         view.backgroundColor = .clear
         view.estimatedRowHeight = 100.0
-        //        view.separatorStyle = .none
         view.rowHeight = UITableView.automaticDimension
         view.separatorInset = UIEdgeInsets(top: 0, left: 16, bottom: 0, right: 16)
         view.showsVerticalScrollIndicator = false
@@ -105,6 +103,7 @@ extension MainViewController: MainViewInput {
 extension MainViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        presenter.showDetails()
         tableView.deselectRow(at: indexPath, animated: true)
     }
 }
@@ -133,17 +132,12 @@ extension MainViewController: UISearchBarDelegate {
     
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         searchFor(searchText)
-        //        let showScope = !searchText.isEmpty
-        //        showScopeBar(showScope)
     }
     
     func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
         resultsController.results = nil
-        //        showScopeBar(false)
-        //        searchController.searchBar.searchTextField.backgroundColor = nil
     }
 }
-
 
 // MARK: - UISearchResultsUpdating
 extension MainViewController: UISearchResultsUpdating {
