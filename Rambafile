@@ -1,0 +1,25 @@
+### Headers settings
+company: Sergey Mustafaev
+
+### Xcode project settings
+project_name: Verbs
+xcodeproj_path: Verbs.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: Verbs
+
+# The file path for new modules
+project_file_path: Verbs/Modules
+
+# The Xcode group path to new modules
+project_group_path: Verbs/Modules
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: rviper_controller}
+- {name: mvvm_controller}
+- {name: swifty_viper}

@@ -1,0 +1,24 @@
+name: Verbs
+
+options:
+  bundleIdPrefix: com.msi.eng
+  minimumXcodeGenVersion: 2.15.1
+targets:
+  Verbs:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources:
+        - Verbs
+    dependencies:
+        - target: Extensions
+  Extensions:
+    type: framework
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources:
+        - Extensions
+    settings:
+        base:
+            PRODUCT_BUNDLE_IDENTIFIER: com.msi.eng.Extensions
+            TARGETED_DEVICE_FAMILY: 1

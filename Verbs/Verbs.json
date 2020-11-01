@@ -1,0 +1,2639 @@
+[
+    {
+        "form_1": "abide",
+        "form_1_trans": "[ əˈbaɪd ]",
+        "form_2": "abode, abided",
+        "form_2_trans": "[ əˈbəʊd ] [ əˈbaɪdɪd ]",
+        "form_3": "abode, abided",
+        "form_3_trans": "[ əˈbəʊd ] [ əˈbaɪdɪd ]",
+        "russian": "пребывать, держаться"
+    },
+    {
+        "form_1": "arise",
+        "form_1_trans": "[ əˈraɪz ]",
+        "form_2": "arose",
+        "form_2_trans": "[ əˈrəʊz ]",
+        "form_3": "arisen",
+        "form_3_trans": "[ əˈrɪzən ]",
+        "russian": "подняться, возникнуть"
+    },
+    {
+        "form_1": "awake",
+        "form_1_trans": "[ əˈweɪk ]",
+        "form_2": "awoke",
+        "form_2_trans": "[ əˈwəʊk ]",
+        "form_3": "awoken",
+        "form_3_trans": "[ əˈwəʊkən ]",
+        "russian": "будить, проснуться"
+    },
+    {
+        "form_1": "backbite",
+        "form_1_trans": "[ ˈbækbaɪt ]",
+        "form_2": "backbitten",
+        "form_2_trans": "[ ˈbækbɪtən ]",
+        "form_3": "backbitten",
+        "form_3_trans": "[ ˈbækbɪtən ]",
+        "russian": "клеветать"
+    },
+    {
+        "form_1": "backslide",
+        "form_1_trans": "[ ˈbækslaɪd ]",
+        "form_2": "backslid",
+        "form_2_trans": "[ bækˈslɪd ]",
+        "form_3": "backslid",
+        "form_3_trans": "[ bækˈslɪd ]",
+        "russian": "отпадать"
+    },
+    {
+        "form_1": "be",
+        "form_1_trans": "[ bi ]",
+        "form_2": "was, were",
+        "form_2_trans": "[ wɒz ] [ wɜː ]",
+        "form_3": "been",
+        "form_3_trans": "[ biːn ]",
+        "russian": "быть"
+    },
+    {
+        "form_1": "bear",
+        "form_1_trans": "[ beə ]",
+        "form_2": "bore",
+        "form_2_trans": "[ bɔː ]",
+        "form_3": "born, borne",
+        "form_3_trans": "[ bɔːn ] [ bɔːn ]",
+        "russian": "нести, родить"
+    },
+    {
+        "form_1": "beat",
+        "form_1_trans": "[ biːt ]",
+        "form_2": "beat",
+        "form_2_trans": "[ biːt ]",
+        "form_3": "beaten",
+        "form_3_trans": "[ ˈbiːtən ]",
+        "russian": "бить"
+    },
+    {
+        "form_1": "become",
+        "form_1_trans": "[ bɪˈkʌm ]",
+        "form_2": "became",
+        "form_2_trans": "[ bɪˈkeɪm ]",
+        "form_3": "become",
+        "form_3_trans": "[ bɪˈkʌm ]",
+        "russian": "стать, сделаться"
+    },
+    {
+        "form_1": "befall",
+        "form_1_trans": "[ bɪˈfɔːl ]",
+        "form_2": "befell",
+        "form_2_trans": "[ bɪˈfel ]",
+        "form_3": "befallen",
+        "form_3_trans": "[ bɪˈfɔːlən ]",
+        "russian": "случиться"
+    },
+    {
+        "form_1": "beget",
+        "form_1_trans": "[ bɪˈɡet ]",
+        "form_2": "begot, begat",
+        "form_2_trans": "[ bɪˈɡɒt ] [ bɪˈɡæt ]",
+        "form_3": "begotten",
+        "form_3_trans": "[ bɪˈɡɒtən ]",
+        "russian": "порождать"
+    },
+    {
+        "form_1": "begin",
+        "form_1_trans": "[ bɪˈɡɪn ]",
+        "form_2": "began",
+        "form_2_trans": "[ bɪˈɡæn ]",
+        "form_3": "begun",
+        "form_3_trans": "[ bɪˈɡʌn ]",
+        "russian": "начать"
+    },
+    {
+        "form_1": "begird",
+        "form_1_trans": "[ bɪˈɡɜːd ]",
+        "form_2": "begirt",
+        "form_2_trans": "[ bɪˈɡɜːt ]",
+        "form_3": "begirt",
+        "form_3_trans": "[ bɪˈɡɜːt ]",
+        "russian": "опоясывать"
+    },
+    {
+        "form_1": "behold",
+        "form_1_trans": "[ bɪˈhəʊld ]",
+        "form_2": "beheld",
+        "form_2_trans": "[ bɪˈheld ]",
+        "form_3": "beheld",
+        "form_3_trans": "[ bɪˈheld ]",
+        "russian": "зреть"
+    },
+    {
+        "form_1": "bend",
+        "form_1_trans": "[ bend ]",
+        "form_2": "bent",
+        "form_2_trans": "[ bent ]",
+        "form_3": "bent, bended",
+        "form_3_trans": "[ bent ] [ ˈbendɪd ]",
+        "russian": "гнуть"
+    },
+    {
+        "form_1": "bereave",
+        "form_1_trans": "[ bɪˈriːv ]",
+        "form_2": "bereft, bereaved",
+        "form_2_trans": "[ bɪˈreft ] [ bɪˈriːvd ]",
+        "form_3": "bereft, bereaved",
+        "form_3_trans": "[ bɪˈreft ] bɪˈriːvd ]",
+        "russian": "лишать"
+    },
+    {
+        "form_1": "beseech",
+        "form_1_trans": "[ bɪˈsiːtʃ ]",
+        "form_2": "besought, beseeched",
+        "form_2_trans": "[ bɪˈsɔːt ] [ bɪˈsiːtʃt ]",
+        "form_3": "besought, beseeched",
+        "form_3_trans": "[ bɪˈsɔːt ] [ bɪˈsiːtʃt ]",
+        "russian": "умолять, упрашивать"
+    },
+    {
+        "form_1": "beset",
+        "form_1_trans": "[ bɪˈset ]",
+        "form_2": "beset",
+        "form_2_trans": "[ bɪˈset ]",
+        "form_3": "beset",
+        "form_3_trans": "[ bɪˈset ]",
+        "russian": "осаждать"
+    },
+    {
+        "form_1": "bespeak",
+        "form_1_trans": "[ bɪˈspiːk ]",
+        "form_2": "bespoke",
+        "form_2_trans": "[ bɪˈspəʊk ]",
+        "form_3": "bespoke, bespoken",
+        "form_3_trans": "[ bɪˈspəʊk ] [ bɪˈspəʊkən ]",
+        "russian": "заказывать"
+    },
+    {
+        "form_1": "bespit",
+        "form_1_trans": "[ bɪˈspɪt ]",
+        "form_2": "bespat",
+        "form_2_trans": "[ bɪˈspæt ]",
+        "form_3": "bespat",
+        "form_3_trans": "[ bɪˈspæt ]",
+        "russian": "заплевывать"
+    },
+    {
+        "form_1": "bestride",
+        "form_1_trans": "[ bɪˈstraɪd ]",
+        "form_2": "bestrode",
+        "form_2_trans": "[ bɪˈstrəʊd ]",
+        "form_3": "bestridden",
+        "form_3_trans": "[ bɪˈstrɪdən ]",
+        "russian": "садиться, сидеть верхом"
+    },
+    {
+        "form_1": "bet",
+        "form_1_trans": "[ ˈbet ]",
+        "form_2": "bet, betted",
+        "form_2_trans": "[ ˈbet ] [ ˈbetɪd ]",
+        "form_3": "bet, betted",
+        "form_3_trans": "[ ˈbet ] [ ˈbetɪd ]",
+        "russian": "держать пари"
+    },
+    {
+        "form_1": "betake",
+        "form_1_trans": "[ bɪˈteɪk ]",
+        "form_2": "betook",
+        "form_2_trans": "[ bɪˈtʊk ]",
+        "form_3": "betaken",
+        "form_3_trans": "[ bɪˈteɪkən ]",
+        "russian": "приниматься, отправляться"
+    },
+    {
+        "form_1": "bid",
+        "form_1_trans": "[ bɪd ]",
+        "form_2": "bad, bade, bid",
+        "form_2_trans": "[ bæd ] [ beɪd ] [ bɪd ]",
+        "form_3": "bid, bidden",
+        "form_3_trans": "[ bɪd ] [ ˈbɪdən ]",
+        "russian": "велеть, просить"
+    },
+    {
+        "form_1": "bind",
+        "form_1_trans": "[ baɪnd ]",
+        "form_2": "bound",
+        "form_2_trans": "[ baʊnd ]",
+        "form_3": "bound",
+        "form_3_trans": "[ baʊnd ]",
+        "russian": "связать"
+    },
+    {
+        "form_1": "bite",
+        "form_1_trans": "[ baɪt ]",
+        "form_2": "bit",
+        "form_2_trans": "[ bɪt ]",
+        "form_3": "bit, bitten",
+        "form_3_trans": "[ bɪt ] [ ˈbɪtən ]",
+        "russian": "кусать"
+    },
+    {
+        "form_1": "bleed",
+        "form_1_trans": "[ bliːd ]",
+        "form_2": "bled",
+        "form_2_trans": "[ bled ]",
+        "form_3": "bled",
+        "form_3_trans": "[ bled ]",
+        "russian": "кровоточить"
+    },
+    {
+        "form_1": "bless",
+        "form_1_trans": "[ bles ]",
+        "form_2": "blessed",
+        "form_2_trans": "[ blest ]",
+        "form_3": "blessed, blest",
+        "form_3_trans": "[ blest ] [ blest ]",
+        "russian": "благословлять"
+    },
+    {
+        "form_1": "blow",
+        "form_1_trans": "[ bləʊ ]",
+        "form_2": "blew",
+        "form_2_trans": "[ bluː ]",
+        "form_3": "blown",
+        "form_3_trans": "[ bləʊn ]",
+        "russian": "дуть"
+    },
+    {
+        "form_1": "break",
+        "form_1_trans": "[ breɪk ]",
+        "form_2": "broke",
+        "form_2_trans": "[ brəʊk ]",
+        "form_3": "broken",
+        "form_3_trans": "[ ˈbrəʊkən ]",
+        "russian": "ломать"
+    },
+    {
+        "form_1": "breed",
+        "form_1_trans": "[ briːd ]",
+        "form_2": "bred",
+        "form_2_trans": "[ bred ]",
+        "form_3": "bred",
+        "form_3_trans": "[ bred ]",
+        "russian": "выращивать, разводить"
+    },
+    {
+        "form_1": "bring",
+        "form_1_trans": "[ brɪŋ ]",
+        "form_2": "brought",
+        "form_2_trans": "[ ˈbrɔːt ]",
+        "form_3": "brought",
+        "form_3_trans": "[ ˈbrɔːt ]",
+        "russian": "принести"
+    },
+    {
+        "form_1": "broadcast",
+        "form_1_trans": "[ ˈbrɔːdkɑːst ]",
+        "form_2": "broadcast",
+        "form_2_trans": "[ ˈbrɔːdkɑːst ]",
+        "form_3": "broadcast",
+        "form_3_trans": "[ ˈbrɔːdkɑːst ]",
+        "russian": "вещать (о ТВ, радио)"
+    },
+    {
+        "form_1": "browbeat",
+        "form_1_trans": "[ ˈbraʊbiːt ]",
+        "form_2": "browbeat",
+        "form_2_trans": "[ ˈbraʊbiːt ]",
+        "form_3": "browbeaten",
+        "form_3_trans": "[ ˈbraʊbiːtən ]",
+        "russian": "запугивать"
+    },
+    {
+        "form_1": "build",
+        "form_1_trans": "[ bɪld ]",
+        "form_2": "built",
+        "form_2_trans": "[ bɪlt ]",
+        "form_3": "built",
+        "form_3_trans": "[ bɪlt ]",
+        "russian": "строить"
+    },
+    {
+        "form_1": "burn",
+        "form_1_trans": "[ bɜːn ]",
+        "form_2": "burnt, burned",
+        "form_2_trans": "[ bɜːnt ] [ bɜːnd ]",
+        "form_3": "burnt, burned",
+        "form_3_trans": "[ bɜːnt ] [ bɜːnd ]",
+        "russian": "жечь, гореть"
+    },
+    {
+        "form_1": "burst",
+        "form_1_trans": "[ bɜːst ]",
+        "form_2": "burst",
+        "form_2_trans": "[ bɜːst ]",
+        "form_3": "burst",
+        "form_3_trans": "[ bɜːst ]",
+        "russian": "разразиться, взорваться"
+    },
+    {
+        "form_1": "bust",
+        "form_1_trans": "[ bʌst ]",
+        "form_2": "bust, busted",
+        "form_2_trans": "[ bʌst ] [ ˈbʌstɪd ]",
+        "form_3": "bust, busted",
+        "form_3_trans": "[ bʌst ] [ ˈbʌstɪd ]",
+        "russian": "разжаловать, уничтожить"
+    },
+    {
+        "form_1": "buy",
+        "form_1_trans": "[ baɪ ]",
+        "form_2": "bought",
+        "form_2_trans": "[ ˈbɔːt ]",
+        "form_3": "bought",
+        "form_3_trans": "[ ˈbɔːt ]",
+        "russian": "купить"
+    },
+    {
+        "form_1": "can",
+        "form_1_trans": "[ kæn ]",
+        "form_2": "could",
+        "form_2_trans": "[ kʊd ]",
+        "form_3": "- / been able",
+        "form_3_trans": "[ - ] [ biːn ˈeɪbəl ]",
+        "russian": "мочь, уметь"
+    },
+    {
+        "form_1": "cast",
+        "form_1_trans": "[ kɑːst ]",
+        "form_2": "cast",
+        "form_2_trans": "[ kɑːst ]",
+        "form_3": "cast",
+        "form_3_trans": "[ kɑːst ]",
+        "russian": "кинуть, лить металл"
+    },
+    {
+        "form_1": "catch",
+        "form_1_trans": "[ kætʃ ]",
+        "form_2": "caught",
+        "form_2_trans": "[ ˈkɔːt ]",
+        "form_3": "caught",
+        "form_3_trans": "[ ˈkɔːt ]",
+        "russian": "ловить, поймать"
+    },
+    {
+        "form_1": "chide",
+        "form_1_trans": "[ tʃaɪd ]",
+        "form_2": "chid, chided",
+        "form_2_trans": "[ tʃɪd ] [ ˈtʃaɪdɪd ]",
+        "form_3": "chid, chided, chidden",
+        "form_3_trans": "[ tʃɪd ] [ ˈtʃaɪdɪd ] [ ˈtʃɪdən ]",
+        "russian": "бранить"
+    },
+    {
+        "form_1": "choose",
+        "form_1_trans": "[ tʃuːz ]",
+        "form_2": "chose",
+        "form_2_trans": "[ tʃəʊz ]",
+        "form_3": "chosen",
+        "form_3_trans": "[ ˈtʃəʊzən ]",
+        "russian": "выбрать"
+    },
+    {
+        "form_1": "cleave",
+        "form_1_trans": "[ kliːv ]",
+        "form_2": "clove, cleft, cleaved",
+        "form_2_trans": "[ kləʊv ] [ kleft ] [ kliːvd ]",
+        "form_3": "cloven, cleft, cleaved",
+        "form_3_trans": "[ ˈkləʊvən ] [ kleft ] [ kliːvd ]",
+        "russian": "рассечь"
+    },
+    {
+        "form_1": "cling",
+        "form_1_trans": "[ kəlɪŋ ]",
+        "form_2": "clung",
+        "form_2_trans": "[ klʌŋ ]",
+        "form_3": "clung",
+        "form_3_trans": "[ klʌŋ ]",
+        "russian": "цепляться, льнуть"
+    },
+    {
+        "form_1": "come",
+        "form_1_trans": "[ kʌm ]",
+        "form_2": "came",
+        "form_2_trans": "[ keɪm ]",
+        "form_3": "come",
+        "form_3_trans": "[ kʌm ]",
+        "russian": "прийти"
+    },
+    {
+        "form_1": "cost",
+        "form_1_trans": "[ kɒst ]",
+        "form_2": "cost",
+        "form_2_trans": "[ kɒst ]",
+        "form_3": "cost",
+        "form_3_trans": "[ kɒst ]",
+        "russian": "стоить"
+    },
+    {
+        "form_1": "countersink",
+        "form_1_trans": "[ ˈkaʊntəsɪŋk ]",
+        "form_2": "countersank",
+        "form_2_trans": "[ ˈkaʊntəsæŋk ]",
+        "form_3": "countersunk",
+        "form_3_trans": "[ ˈkaʊntəsʌŋk ]",
+        "russian": "зенковать"
+    },
+    {
+        "form_1": "creep",
+        "form_1_trans": "[ kriːp ]",
+        "form_2": "crept",
+        "form_2_trans": "[ krept ]",
+        "form_3": "crept",
+        "form_3_trans": "[ krept ]",
+        "russian": "ползти"
+    },
+    {
+        "form_1": "crow",
+        "form_1_trans": "[ krəʊ ]",
+        "form_2": "crowed, crew",
+        "form_2_trans": "[ krəʊd ] [ kruː ]",
+        "form_3": "crowed",
+        "form_3_trans": "[ krəʊd ]",
+        "russian": "петь (о петухе)"
+    },
+    {
+        "form_1": "cut",
+        "form_1_trans": "[ kʌt ]",
+        "form_2": "cut",
+        "form_2_trans": "[ kʌt ]",
+        "form_3": "cut",
+        "form_3_trans": "[ kʌt ]",
+        "russian": "резать"
+    },
+    {
+        "form_1": "dare",
+        "form_1_trans": "[ deə ]",
+        "form_2": "durst, dared",
+        "form_2_trans": "[ dɜːst ] deəd ]",
+        "form_3": "dared",
+        "form_3_trans": "[ deəd ]",
+        "russian": "сметь"
+    },
+    {
+        "form_1": "deal",
+        "form_1_trans": "[ diːl ]",
+        "form_2": "dealt",
+        "form_2_trans": "[ delt ]",
+        "form_3": "dealt",
+        "form_3_trans": "[ delt ]",
+        "russian": "иметь дело"
+    },
+    {
+        "form_1": "dig",
+        "form_1_trans": "[ dɪɡ ]",
+        "form_2": "dug",
+        "form_2_trans": "[ dʌɡ ]",
+        "form_3": "dug",
+        "form_3_trans": "[ dʌɡ ]",
+        "russian": "копать"
+    },
+    {
+        "form_1": "dive",
+        "form_1_trans": "[ daɪv ]",
+        "form_2": "dived, dove",
+        "form_2_trans": "[ daɪvd ] dʌv ]",
+        "form_3": "dived",
+        "form_3_trans": "[ daɪvd ]",
+        "russian": "нырять, погружаться"
+    },
+    {
+        "form_1": "do",
+        "form_1_trans": "[ duː ]",
+        "form_2": "did",
+        "form_2_trans": "[ dɪd ]",
+        "form_3": "done",
+        "form_3_trans": "[ dʌn ]",
+        "russian": "делать"
+    },
+    {
+        "form_1": "draw",
+        "form_1_trans": "[ drɔː ]",
+        "form_2": "drew",
+        "form_2_trans": "[ druː ]",
+        "form_3": "drawn",
+        "form_3_trans": "[ drɔːn ]",
+        "russian": "тащить, рисовать"
+    },
+    {
+        "form_1": "dream",
+        "form_1_trans": "[ driːm ]",
+        "form_2": "dreamt, dreamed",
+        "form_2_trans": "[ dremt ] [ driːmd ]",
+        "form_3": "dreamt, dreamed",
+        "form_3_trans": "[ dremt ] [ driːmd ]",
+        "russian": "грезить, мечтать"
+    },
+    {
+        "form_1": "drink",
+        "form_1_trans": "[ drɪŋk ]",
+        "form_2": "drank",
+        "form_2_trans": "[ dræŋk ]",
+        "form_3": "drunk",
+        "form_3_trans": "[ drʌŋk ]",
+        "russian": "пить, выпить"
+    },
+    {
+        "form_1": "drive",
+        "form_1_trans": "[ draɪv ]",
+        "form_2": "drove",
+        "form_2_trans": "[ drəʊv ]",
+        "form_3": "driven",
+        "form_3_trans": "[ ˈdrɪvən ]",
+        "russian": "гнать, ехать"
+    },
+    {
+        "form_1": "dwell",
+        "form_1_trans": "[ dwel ]",
+        "form_2": "dwelt",
+        "form_2_trans": "[ dwelt ]",
+        "form_3": "dwelt",
+        "form_3_trans": "[ dwelt ]",
+        "russian": "обитать, задерживаться"
+    },
+    {
+        "form_1": "eat",
+        "form_1_trans": "[ iːt ]",
+        "form_2": "ate",
+        "form_2_trans": "[ et ]",
+        "form_3": "eaten",
+        "form_3_trans": "[ ˈiːtən ]",
+        "russian": "кушать, есть"
+    },
+    {
+        "form_1": "fall",
+        "form_1_trans": "[ fɔːl ]",
+        "form_2": "fell",
+        "form_2_trans": "[ fel ]",
+        "form_3": "fallen",
+        "form_3_trans": "[ ˈfɔːlən ]",
+        "russian": "падать"
+    },
+    {
+        "form_1": "feed",
+        "form_1_trans": "[ fiːd ]",
+        "form_2": "fed",
+        "form_2_trans": "[ fed ]",
+        "form_3": "fed",
+        "form_3_trans": "[ fed ]",
+        "russian": "кормить"
+    },
+    {
+        "form_1": "feel",
+        "form_1_trans": "[ fiːl ]",
+        "form_2": "felt",
+        "form_2_trans": "[ felt ]",
+        "form_3": "felt",
+        "form_3_trans": "[ felt ]",
+        "russian": "чувствовать"
+    },
+    {
+        "form_1": "fight",
+        "form_1_trans": "[ faɪt ]",
+        "form_2": "fought",
+        "form_2_trans": "[ ˈfɔːt ]",
+        "form_3": "fought",
+        "form_3_trans": "[ ˈfɔːt ]",
+        "russian": "сражаться, драться"
+    },
+    {
+        "form_1": "find",
+        "form_1_trans": "[ faɪnd ]",
+        "form_2": "found",
+        "form_2_trans": "[ faʊnd ]",
+        "form_3": "found",
+        "form_3_trans": "[ faʊnd ]",
+        "russian": "находить"
+    },
+    {
+        "form_1": "flee",
+        "form_1_trans": "[ fliː ]",
+        "form_2": "fled",
+        "form_2_trans": "[ fled ]",
+        "form_3": "fled",
+        "form_3_trans": "[ fled ]",
+        "russian": "бежать, спасаться"
+    },
+    {
+        "form_1": "fling",
+        "form_1_trans": "[ flɪŋ ]",
+        "form_2": "flung",
+        "form_2_trans": "[ flʌŋ ]",
+        "form_3": "flung",
+        "form_3_trans": "[ flʌŋ ]",
+        "russian": "бросить"
+    },
+    {
+        "form_1": "floodlight",
+        "form_1_trans": "[ ˈflʌdlaɪt ]",
+        "form_2": "floodlighted, floodlit",
+        "form_2_trans": "[ ˈflʌdlaɪtɪd ] [ ˈflʌdlɪt ]",
+        "form_3": "floodlighted, floodlit",
+        "form_3_trans": "[ ˈflʌdlaɪtɪd ] [ ˈflʌdlɪt ]",
+        "russian": "освещать прожектором"
+    },
+    {
+        "form_1": "fly",
+        "form_1_trans": "[ flaɪ ]",
+        "form_2": "flew",
+        "form_2_trans": "[ fluː ]",
+        "form_3": "flown",
+        "form_3_trans": "[ fləʊn ]",
+        "russian": "летать"
+    },
+    {
+        "form_1": "forbear",
+        "form_1_trans": "[ fɔːˈbeə ]",
+        "form_2": "forbore",
+        "form_2_trans": "[ fɔːˈbɔː ]",
+        "form_3": "forborne",
+        "form_3_trans": "[ fɔːˈbɔːn ]",
+        "russian": "воздерживаться"
+    },
+    {
+        "form_1": "forbid",
+        "form_1_trans": "[ fəˈbɪd ]",
+        "form_2": "forbad, forbade",
+        "form_2_trans": "[ fəˈbæd ] [ fəˈbæd ]",
+        "form_3": "forbidden",
+        "form_3_trans": "[ fəˈbɪdən ]",
+        "russian": "запретить"
+    },
+    {
+        "form_1": "forecast",
+        "form_1_trans": "[ ˈfɔːkɑːst ]",
+        "form_2": "forecast, forecasted",
+        "form_2_trans": "[ ˈfɔːkɑːst ] [ ˈfɔːkɑːstɪd ]",
+        "form_3": "forecast, forecasted",
+        "form_3_trans": "[ ˈfɔːkɑːst ] [ ˈfɔːkɑːstɪd ]",
+        "russian": "предсказывать"
+    },
+    {
+        "form_1": "foresee",
+        "form_1_trans": "[ fɔːˈsiː ]",
+        "form_2": "foresaw",
+        "form_2_trans": "[ fɔːˈsɔː ]",
+        "form_3": "foreseen",
+        "form_3_trans": "[ fɔːˈsiːn ]",
+        "russian": "предвидеть"
+    },
+    {
+        "form_1": "foretell",
+        "form_1_trans": "[ fɔːˈtel ]",
+        "form_2": "foretold",
+        "form_2_trans": "[ fɔːˈtəʊld ]",
+        "form_3": "foretold",
+        "form_3_trans": "[ fɔːˈtəʊld ]",
+        "russian": "предсказывать"
+    },
+    {
+        "form_1": "forget",
+        "form_1_trans": "[ fəˈɡet ]",
+        "form_2": "forgot",
+        "form_2_trans": "[ fəˈɡɒt ]",
+        "form_3": "forgotten",
+        "form_3_trans": "[ fəˈɡɒtən ]",
+        "russian": "забыть"
+    },
+    {
+        "form_1": "forgive",
+        "form_1_trans": "[ fəˈɡɪv ]",
+        "form_2": "forgave",
+        "form_2_trans": "[ fəˈɡeɪv ]",
+        "form_3": "forgiven",
+        "form_3_trans": "[ fəˈɡɪvən ]",
+        "russian": "простить"
+    },
+    {
+        "form_1": "forsake",
+        "form_1_trans": "[ fəˈseɪk ]",
+        "form_2": "forsook",
+        "form_2_trans": "[ fəˈsʊk ]",
+        "form_3": "forsaken",
+        "form_3_trans": "[ fəˈseɪkən ]",
+        "russian": "покидать"
+    },
+    {
+        "form_1": "forswear",
+        "form_1_trans": "[ fɔːˈsweə ]",
+        "form_2": "forswore",
+        "form_2_trans": "[ fɔːˈswɔː ]",
+        "form_3": "forsworn",
+        "form_3_trans": "[ fɔːˈswɔːn ]",
+        "russian": "отрекаться"
+    },
+    {
+        "form_1": "freeze",
+        "form_1_trans": "[ friːz ]",
+        "form_2": "froze",
+        "form_2_trans": "[ frəʊz ]",
+        "form_3": "frozen",
+        "form_3_trans": "[ ˈfrəʊzən ]",
+        "russian": "замерзнуть, замораживать"
+    },
+    {
+        "form_1": "gainsay",
+        "form_1_trans": "[ ˌɡeɪnˈseɪ ]",
+        "form_2": "gainsaid",
+        "form_2_trans": "[ ˌɡeɪnˈsed ]",
+        "form_3": "gainsaid",
+        "form_3_trans": "[ ˌɡeɪnˈsed ]",
+        "russian": "отрицать, противоречить"
+    },
+    {
+        "form_1": "get",
+        "form_1_trans": "[ ˈɡet ]",
+        "form_2": "got",
+        "form_2_trans": "[ ˈɡɒt ]",
+        "form_3": "got",
+        "form_3_trans": "[ ˈɡɒt ]",
+        "russian": "получить"
+    },
+    {
+        "form_1": "gild",
+        "form_1_trans": "[ ɡɪld ]",
+        "form_2": "gilt, gilded",
+        "form_2_trans": "[ ɡɪlt ] [ ˈɡɪldɪd ]",
+        "form_3": "gilt, gilded",
+        "form_3_trans": "[ ɡɪlt ] [ ˈɡɪldɪd ]",
+        "russian": "позолотить"
+    },
+    {
+        "form_1": "gird",
+        "form_1_trans": "[ ɡɜːd ]",
+        "form_2": "girded, girt",
+        "form_2_trans": "[ ˈɡɜːdɪd ] [ ɡɜːt ]",
+        "form_3": "girded, girt",
+        "form_3_trans": "[ ˈɡɜːdɪd ] [ ɡɜːt ]",
+        "russian": "опоясывать"
+    },
+    {
+        "form_1": "give",
+        "form_1_trans": "[ ɡɪv ]",
+        "form_2": "gave",
+        "form_2_trans": "[ ɡeɪv ]",
+        "form_3": "given",
+        "form_3_trans": "[ ɡɪvən ]",
+        "russian": "дать"
+    },
+    {
+        "form_1": "go",
+        "form_1_trans": "[ ɡəʊ ]",
+        "form_2": "went",
+        "form_2_trans": "[ ˈwent ]",
+        "form_3": "gone",
+        "form_3_trans": "[ ɡɒn ]",
+        "russian": "идти, уходить"
+    },
+    {
+        "form_1": "grave",
+        "form_1_trans": "[ ɡreɪv ]",
+        "form_2": "graved",
+        "form_2_trans": "[ ɡreɪvd ]",
+        "form_3": "graved, graven",
+        "form_3_trans": "[ ɡreɪvd ] [ ˈɡreɪvən ]",
+        "russian": "гравировать"
+    },
+    {
+        "form_1": "grind",
+        "form_1_trans": "[ ɡraɪnd ]",
+        "form_2": "ground",
+        "form_2_trans": "[ ɡraʊnd ]",
+        "form_3": "ground",
+        "form_3_trans": "[ ɡraʊnd ]",
+        "russian": "точить, молоть"
+    },
+    {
+        "form_1": "grow",
+        "form_1_trans": "[ ɡrəʊ ]",
+        "form_2": "grew",
+        "form_2_trans": "[ ɡruː ]",
+        "form_3": "grown",
+        "form_3_trans": "[ ɡrəʊn ]",
+        "russian": "расти"
+    },
+    {
+        "form_1": "hamstring",
+        "form_1_trans": "[ ˈhæmstrɪŋ ]",
+        "form_2": "hamstringed, hamstrung",
+        "form_2_trans": "[ ˈhæmstrɪŋd ] ˈhæmstrʌŋ ]",
+        "form_3": "hamstringed, hamstrung",
+        "form_3_trans": "[ hæmstrɪŋd ] [ ˈhæmstrʌŋ ]",
+        "russian": "подрезать поджилки"
+    },
+    {
+        "form_1": "hang",
+        "form_1_trans": "[ hæŋ ]",
+        "form_2": "hung, hanged",
+        "form_2_trans": "[ hʌŋ ] [ hæŋd ]",
+        "form_3": "hung, hanged",
+        "form_3_trans": "[ hʌŋ ] [ hæŋd ]",
+        "russian": "висеть, повесить"
+    },
+    {
+        "form_1": "have",
+        "form_1_trans": "[ hæv ]",
+        "form_2": "had",
+        "form_2_trans": "[ hæd ]",
+        "form_3": "had",
+        "form_3_trans": "[ hæd ]",
+        "russian": "иметь"
+    },
+    {
+        "form_1": "hear",
+        "form_1_trans": "[ hɪə ]",
+        "form_2": "heard",
+        "form_2_trans": "[ hɜːd ]",
+        "form_3": "heard",
+        "form_3_trans": "[ hɜːd ]",
+        "russian": "слушать"
+    },
+    {
+        "form_1": "heave",
+        "form_1_trans": "[ hiːv ]",
+        "form_2": "heaved, hove",
+        "form_2_trans": "[ hiːvd ] [ həʊv ]",
+        "form_3": "heaved, hove",
+        "form_3_trans": "[ hiːvd ] [ həʊv ]",
+        "russian": "подымать(ся)"
+    },
+    {
+        "form_1": "hew",
+        "form_1_trans": "[ hjuː ]",
+        "form_2": "hewed",
+        "form_2_trans": "[ hjuːd ]",
+        "form_3": "hewed, hewn",
+        "form_3_trans": "[ hjuːd ] [ hjuːn ]",
+        "russian": "рубить, тесать"
+    },
+    {
+        "form_1": "hide",
+        "form_1_trans": "[ haɪd ]",
+        "form_2": "hid",
+        "form_2_trans": "[ hɪd ]",
+        "form_3": "hidden",
+        "form_3_trans": "[ ˈhɪdən ]",
+        "russian": "прятать(ся)"
+    },
+    {
+        "form_1": "hit",
+        "form_1_trans": "[ hɪt ]",
+        "form_2": "hit",
+        "form_2_trans": "[ hɪt ]",
+        "form_3": "hit",
+        "form_3_trans": "[ hɪt ]",
+        "russian": "ударить, попасть"
+    },
+    {
+        "form_1": "hold",
+        "form_1_trans": "[ həʊld ]",
+        "form_2": "held",
+        "form_2_trans": "[ held ]",
+        "form_3": "held",
+        "form_3_trans": "[ held ]",
+        "russian": "держать"
+    },
+    {
+        "form_1": "hurt",
+        "form_1_trans": "[ hɜːt ]",
+        "form_2": "hurt",
+        "form_2_trans": "[ hɜːt ]",
+        "form_3": "hurt",
+        "form_3_trans": "[ hɜːt ]",
+        "russian": "причинить боль"
+    },
+    {
+        "form_1": "inlay",
+        "form_1_trans": "[ ˌɪnˈleɪ ]",
+        "form_2": "inlaid",
+        "form_2_trans": "[ ˌɪnˈleɪd ]",
+        "form_3": "inlaid",
+        "form_3_trans": "[ ˌɪnˈleɪd ]",
+        "russian": "вкладывать, выстилать"
+    },
+    {
+        "form_1": "input",
+        "form_1_trans": "[ ˈɪnpʊt ]",
+        "form_2": "input",
+        "form_2_trans": "[ ˈɪnpʊt ]",
+        "form_3": "input",
+        "form_3_trans": "[ ˈɪnpʊt ]",
+        "russian": "вводить (информацию)"
+    },
+    {
+        "form_1": "inset",
+        "form_1_trans": "[ ˌɪnˈset ]",
+        "form_2": "inset",
+        "form_2_trans": "[ ˌɪnˈset ]",
+        "form_3": "inset",
+        "form_3_trans": "[ ˌɪnˈset ]",
+        "russian": "вставлять, вкладывать"
+    },
+    {
+        "form_1": "interweave",
+        "form_1_trans": "[ ˌɪntəˈwiːv ]",
+        "form_2": "interwove",
+        "form_2_trans": "[ ˌɪntəˈwəʊv ]",
+        "form_3": "interwoven",
+        "form_3_trans": "[ ˌɪntəˈwəʊvən ]",
+        "russian": "вплести, воткать"
+    },
+    {
+        "form_1": "keep",
+        "form_1_trans": "[ kiːp ]",
+        "form_2": "kept",
+        "form_2_trans": "[ kept ]",
+        "form_3": "kept",
+        "form_3_trans": "[ kept ]",
+        "russian": "хранить"
+    },
+    {
+        "form_1": "ken",
+        "form_1_trans": "[ ken ]",
+        "form_2": "kenned, kent",
+        "form_2_trans": "[ kend ] [ kent ]",
+        "form_3": "kenned",
+        "form_3_trans": "[ kend ]",
+        "russian": "знать, узнавать по виду"
+    },
+    {
+        "form_1": "kneel",
+        "form_1_trans": "[ niːl ]",
+        "form_2": "knelt, kneeled",
+        "form_2_trans": "[ nelt ] [ niːld ]",
+        "form_3": "knelt, kneeled",
+        "form_3_trans": "[ nelt ] [ niːld ]",
+        "russian": "становиться на колени"
+    },
+    {
+        "form_1": "knit",
+        "form_1_trans": "[ nɪt ]",
+        "form_2": "knit, knitted",
+        "form_2_trans": "[ nɪt ] [ ˈnɪtɪd ]",
+        "form_3": "knit, knitted",
+        "form_3_trans": "[ nɪt ] [ ˈnɪtɪd ]",
+        "russian": "вязать"
+    },
+    {
+        "form_1": "know",
+        "form_1_trans": "[ nəʊ ]",
+        "form_2": "knew",
+        "form_2_trans": "[ njuː ]",
+        "form_3": "known",
+        "form_3_trans": "[ nəʊn ]",
+        "russian": "знать"
+    },
+    {
+        "form_1": "lade",
+        "form_1_trans": "[ leɪd ]",
+        "form_2": "laded",
+        "form_2_trans": "[ ˈleɪdɪd ]",
+        "form_3": "laded, laden",
+        "form_3_trans": "[ ˈleɪdɪd ] [ ˈleɪdən ]",
+        "russian": "грузить"
+    },
+    {
+        "form_1": "lay",
+        "form_1_trans": "[ leɪ ]",
+        "form_2": "laid",
+        "form_2_trans": "[ leɪd ]",
+        "form_3": "laid",
+        "form_3_trans": "[ leɪd ]",
+        "russian": "класть, положить"
+    },
+    {
+        "form_1": "lead",
+        "form_1_trans": "[ liːd ]",
+        "form_2": "led",
+        "form_2_trans": "[ led ]",
+        "form_3": "led",
+        "form_3_trans": "[ led ]",
+        "russian": "вести"
+    },
+    {
+        "form_1": "lean",
+        "form_1_trans": "[ liːn ]",
+        "form_2": "leant, leaned",
+        "form_2_trans": "[ lent ] [ liːnd ]",
+        "form_3": "leant, leaned",
+        "form_3_trans": "[ lent ] [ liːnd ]",
+        "russian": "опереться, прислониться"
+    },
+    {
+        "form_1": "leap",
+        "form_1_trans": "[ liːp ]",
+        "form_2": "leapt, leaped",
+        "form_2_trans": "[ lept ] [ liːpt ]",
+        "form_3": "leapt, leaped",
+        "form_3_trans": "[ lept ] [ liːpt ]",
+        "russian": "прыгать"
+    },
+    {
+        "form_1": "learn",
+        "form_1_trans": "[ lɜːn ]",
+        "form_2": "learnt, learned",
+        "form_2_trans": "[ lɜːnt ] [ lɜːnd ]",
+        "form_3": "learnt, learned",
+        "form_3_trans": "[ lɜːnt ] [ lɜːnd ]",
+        "russian": "учить"
+    },
+    {
+        "form_1": "leave",
+        "form_1_trans": "[ liːv ]",
+        "form_2": "left",
+        "form_2_trans": "[ left ]",
+        "form_3": "left",
+        "form_3_trans": "[ left ]",
+        "russian": "оставить"
+    },
+    {
+        "form_1": "lend",
+        "form_1_trans": "[ lend ]",
+        "form_2": "lent",
+        "form_2_trans": "[ lent ]",
+        "form_3": "lent",
+        "form_3_trans": "[ lent ]",
+        "russian": "одолжить"
+    },
+    {
+        "form_1": "let",
+        "form_1_trans": "[ let ]",
+        "form_2": "let",
+        "form_2_trans": "[ let ]",
+        "form_3": "let",
+        "form_3_trans": "[ let ]",
+        "russian": "пустить, дать"
+    },
+    {
+        "form_1": "lie",
+        "form_1_trans": "[ laɪ ]",
+        "form_2": "lay",
+        "form_2_trans": "[ leɪ ]",
+        "form_3": "lain",
+        "form_3_trans": "[ leɪn ]",
+        "russian": "лежать"
+    },
+    {
+        "form_1": "light",
+        "form_1_trans": "[ laɪt ]",
+        "form_2": "lit, lighted",
+        "form_2_trans": "[ lɪt ] [ ˈlaɪtɪd ]",
+        "form_3": "lit, lighted",
+        "form_3_trans": "[ lɪt ] [ ˈlaɪtɪd ]",
+        "russian": "осветить"
+    },
+    {
+        "form_1": "lose",
+        "form_1_trans": "[ luːz ]",
+        "form_2": "lost",
+        "form_2_trans": "[ lɒst ]",
+        "form_3": "lost",
+        "form_3_trans": "[ lɒst ]",
+        "russian": "терять"
+    },
+    {
+        "form_1": "make",
+        "form_1_trans": "[ ˈmeɪk ]",
+        "form_2": "made",
+        "form_2_trans": "[ ˈmeɪd ]",
+        "form_3": "made",
+        "form_3_trans": "[ ˈmeɪd ]",
+        "russian": "делать"
+    },
+    {
+        "form_1": "may",
+        "form_1_trans": "[ meɪ ]",
+        "form_2": "might",
+        "form_2_trans": "[ maɪt ]",
+        "form_3": "might",
+        "form_3_trans": "[ maɪt ]",
+        "russian": "мочь, иметь возможность"
+    },
+    {
+        "form_1": "mean",
+        "form_1_trans": "[ miːn ]",
+        "form_2": "meant",
+        "form_2_trans": "[ ment ]",
+        "form_3": "meant",
+        "form_3_trans": "[ ment ]",
+        "russian": "подразумевать"
+    },
+    {
+        "form_1": "meet",
+        "form_1_trans": "[ miːt ]",
+        "form_2": "met",
+        "form_2_trans": "[ met ]",
+        "form_3": "met",
+        "form_3_trans": "[ met ]",
+        "russian": "встретить"
+    },
+    {
+        "form_1": "miscast",
+        "form_1_trans": "[ ˌmɪsˈkɑːst ]",
+        "form_2": "miscast",
+        "form_2_trans": "[ ˌmɪsˈkɑːst ]",
+        "form_3": "miscast",
+        "form_3_trans": "[ ˌmɪsˈkɑːst ]",
+        "russian": "неправильно распределять роли"
+    },
+    {
+        "form_1": "misdeal",
+        "form_1_trans": "[ ˌmɪsˈdiːl ]",
+        "form_2": "misdealt",
+        "form_2_trans": "[ ˌmɪsˈdelt ]",
+        "form_3": "misdealt",
+        "form_3_trans": "[ ˌmɪsˈdelt ]",
+        "russian": "поступать неправильно"
+    },
+    {
+        "form_1": "misgive",
+        "form_1_trans": "[ ˌmɪsˈɡɪv ]",
+        "form_2": "misgave",
+        "form_2_trans": "[ ˌmɪsˈɡeɪv ]",
+        "form_3": "misgiven",
+        "form_3_trans": "[ ˌmɪsˈɡɪvən ]",
+        "russian": "внушать опасения"
+    },
+    {
+        "form_1": "mishear",
+        "form_1_trans": "[ ˌmɪsˈhɪə ]",
+        "form_2": "misheard",
+        "form_2_trans": "[ ˌmɪsˈhɪə ]",
+        "form_3": "misheard",
+        "form_3_trans": "[ ˌmɪsˈhɪə ]",
+        "russian": "ослышаться"
+    },
+    {
+        "form_1": "mishit",
+        "form_1_trans": "[ ˈmɪshɪt ]",
+        "form_2": "mishit",
+        "form_2_trans": "[ ˈmɪshɪt ]",
+        "form_3": "mishit",
+        "form_3_trans": "[ ˈmɪshɪt ]",
+        "russian": "промахнуться"
+    },
+    {
+        "form_1": "mislay",
+        "form_1_trans": "[ ˌmɪsˈleɪ ]",
+        "form_2": "mislaid",
+        "form_2_trans": "[ ˌmɪsˈleɪd ]",
+        "form_3": "mislaid",
+        "form_3_trans": "[ ˌmɪsˈleɪd ]",
+        "russian": "класть не на место"
+    },
+    {
+        "form_1": "mislead",
+        "form_1_trans": "[ ˌmɪsˈliːd ]",
+        "form_2": "misled",
+        "form_2_trans": "[ ˌmɪsˈled ]",
+        "form_3": "misled",
+        "form_3_trans": "[ ˌmɪsˈled ]",
+        "russian": "ввести в заблуждение"
+    },
+    {
+        "form_1": "misread",
+        "form_1_trans": "[ ˌmɪsˈriːd ]",
+        "form_2": "misread",
+        "form_2_trans": "[ ˌmɪsˈriːd ]",
+        "form_3": "misread",
+        "form_3_trans": "[ ˌmɪsˈriːd ]",
+        "russian": "неправильно истолковывать"
+    },
+    {
+        "form_1": "misspell",
+        "form_1_trans": "[ ˌmɪsˈspel ]",
+        "form_2": "misspelt, misspeled",
+        "form_2_trans": "[ ˌmɪsˈspelt ] [ ˌmɪsˈspeld ]",
+        "form_3": "misspelt, misspeled",
+        "form_3_trans": "[ ˌmɪsˈspelt ] [ ˌmɪsˈspeld ]",
+        "russian": "писать с ошибками"
+    },
+    {
+        "form_1": "misspend",
+        "form_1_trans": "[ ˌmɪsˈspend ]",
+        "form_2": "misspent",
+        "form_2_trans": "[ ˌmɪsˈspent ]",
+        "form_3": "misspent",
+        "form_3_trans": "[ ˌmɪsˈspent ]",
+        "russian": "экономить"
+    },
+    {
+        "form_1": "mistake",
+        "form_1_trans": "[ mɪˈsteɪk ]",
+        "form_2": "mistook",
+        "form_2_trans": "[ mɪˈstʊk ]",
+        "form_3": "mistaken",
+        "form_3_trans": "[ mɪˈsteɪkən ]",
+        "russian": "неправильно понимать"
+    },
+    {
+        "form_1": "misunderstand",
+        "form_1_trans": "[ ˌmɪsˌʌndəˈstænd ]",
+        "form_2": "misunderstood",
+        "form_2_trans": "[ ˌmɪsˌʌndəˈstʊd ]",
+        "form_3": "misunderstood",
+        "form_3_trans": "[ ˌmɪsˌʌndəˈstʊd ]",
+        "russian": "неправильно понимать"
+    },
+    {
+        "form_1": "mow",
+        "form_1_trans": "[ maʊ ]",
+        "form_2": "mowed",
+        "form_2_trans": "[ maʊd ]",
+        "form_3": "mown, mowed",
+        "form_3_trans": "[ məʊn ] [ maʊd ]",
+        "russian": "косить"
+    },
+    {
+        "form_1": "outbid",
+        "form_1_trans": "[ aʊtˈbɪd ]",
+        "form_2": "outbid",
+        "form_2_trans": "[ aʊtˈbɪd ]",
+        "form_3": "outbid",
+        "form_3_trans": "[ aʊtˈbɪd ]",
+        "russian": "перебивать цену"
+    },
+    {
+        "form_1": "outdo",
+        "form_1_trans": "[ aʊtˈduː ]",
+        "form_2": "outdid",
+        "form_2_trans": "[ aʊtˈdɪd ]",
+        "form_3": "outdone",
+        "form_3_trans": "[ aʊtˈdʌn ]",
+        "russian": "превосходить"
+    },
+    {
+        "form_1": "outfight",
+        "form_1_trans": "[ ˌaʊtˈfaɪt ]",
+        "form_2": "outfought",
+        "form_2_trans": "[ ˌaʊtˈfɔːt ]",
+        "form_3": "outfought",
+        "form_3_trans": "[ ˌaʊtˈfɔːt ]",
+        "russian": "побеждать (в бою)"
+    },
+    {
+        "form_1": "outgrow",
+        "form_1_trans": "[ ˌaʊtˈɡrəʊ ]",
+        "form_2": "outgrew",
+        "form_2_trans": "[ ˌaʊtˈɡruː ]",
+        "form_3": "outgrown",
+        "form_3_trans": "[ ˌaʊtˈɡrəʊn ]",
+        "russian": "вырастать из"
+    },
+    {
+        "form_1": "output",
+        "form_1_trans": "[ ˈaʊtpʊt ]",
+        "form_2": "output",
+        "form_2_trans": "[ ˈaʊtpʊt ]",
+        "form_3": "output",
+        "form_3_trans": "[ ˈaʊtpʊt ]",
+        "russian": "выдавать, производить"
+    },
+    {
+        "form_1": "outrun",
+        "form_1_trans": "[ ˌaʊtˈrʌn ]",
+        "form_2": "outran",
+        "form_2_trans": "[ ˌaʊtˈræn ]",
+        "form_3": "outrun",
+        "form_3_trans": "[ ˌaʊtˈrʌn ]",
+        "russian": "перегонять, опережать"
+    },
+    {
+        "form_1": "outsell",
+        "form_1_trans": "[ ˌaʊtˈsel ]",
+        "form_2": "outsold",
+        "form_2_trans": "[ ˌaʊtˈsəʊld ]",
+        "form_3": "outsold",
+        "form_3_trans": "[ ˌaʊtˈsəʊld ]",
+        "russian": "продавать лучше или дороже"
+    },
+    {
+        "form_1": "outshine",
+        "form_1_trans": "[ ˌaʊtˈʃaɪn ]",
+        "form_2": "outshone",
+        "form_2_trans": "[ ˌaʊtˈʃɒn ]",
+        "form_3": "outshone",
+        "form_3_trans": "[ ˌaʊtˈʃɒn ]",
+        "russian": "затмевать"
+    },
+    {
+        "form_1": "overbid",
+        "form_1_trans": "[ ˌəʊvəˈbɪd ]",
+        "form_2": "overbade",
+        "form_2_trans": "[ ˌəʊvəˈbeɪd]",
+        "form_3": "overbidden",
+        "form_3_trans": "[ ˌəʊvəˈbɪdən ]",
+        "russian": "предложить более высокую цену"
+    },
+    {
+        "form_1": "overcome",
+        "form_1_trans": "[ ˌəʊvəˈkʌm ]",
+        "form_2": "overcame",
+        "form_2_trans": "[ ˌəʊvəˈkeɪm ]",
+        "form_3": "overcome",
+        "form_3_trans": "[ ˌəʊvəˈkʌm ]",
+        "russian": "преодолевать"
+    },
+    {
+        "form_1": "overdo",
+        "form_1_trans": "[ ˌəʊvəˈduː ]",
+        "form_2": "overdid",
+        "form_2_trans": "[ ˌəʊvəˈdɪd ]",
+        "form_3": "overdone",
+        "form_3_trans": "[ ˌəʊvəˈdʌn ]",
+        "russian": "делать что-либо излишне, чрезмерно"
+    },
+    {
+        "form_1": "overdraw",
+        "form_1_trans": "[ ˌəʊvəˈdrɔː ]",
+        "form_2": "overdrew",
+        "form_2_trans": "[ ˌəʊvəˈdruː ]",
+        "form_3": "overdrawn",
+        "form_3_trans": "[ ˌəʊvəˈdrɔːn ]",
+        "russian": "превышать"
+    },
+    {
+        "form_1": "overeat",
+        "form_1_trans": "[ ˌəʊvəˈriːt ]",
+        "form_2": "overate",
+        "form_2_trans": "[ ˌəʊvəˈreɪt ]",
+        "form_3": "overeaten",
+        "form_3_trans": "[ ˌəʊvəˈriːtən ]",
+        "russian": "объедаться"
+    },
+    {
+        "form_1": "overfly",
+        "form_1_trans": "[ ˌəʊvəˈflaɪ ]",
+        "form_2": "overflew",
+        "form_2_trans": "[ ˌəʊvəˈfluː ]",
+        "form_3": "overflown",
+        "form_3_trans": "[ ˌəʊvəˈfləʊn ]",
+        "russian": "перелетать"
+    },
+    {
+        "form_1": "overhang",
+        "form_1_trans": "[ ˌəʊvəˈhæŋ ]",
+        "form_2": "overhung",
+        "form_2_trans": "[ ˌəʊvəˈhʌŋ ]",
+        "form_3": "overhung",
+        "form_3_trans": "[ ˌəʊvəˈhʌŋ ]",
+        "russian": "нависать"
+    },
+    {
+        "form_1": "overhear",
+        "form_1_trans": "[ ˌəʊvəˈhɪə ]",
+        "form_2": "overheard",
+        "form_2_trans": "[ ˌəʊvəˈhɜːd ]",
+        "form_3": "overheard",
+        "form_3_trans": "[ ˌəʊvəˈhɜːd ]",
+        "russian": "подслушивать"
+    },
+    {
+        "form_1": "overlay",
+        "form_1_trans": "[ ˌəʊvəˈleɪ ]",
+        "form_2": "overlaid",
+        "form_2_trans": "[ ˌəʊvəˈleɪd ]",
+        "form_3": "overlaid",
+        "form_3_trans": "[ ˌəʊvəˈleɪd ]",
+        "russian": "покрывать"
+    },
+    {
+        "form_1": "overpay",
+        "form_1_trans": "[ ˌəʊvəˈpeɪ ]",
+        "form_2": "overpaid",
+        "form_2_trans": "[ ˌəʊvəˈpeɪd ]",
+        "form_3": "overpaid",
+        "form_3_trans": "[ ˌəʊvəˈpeɪd ]",
+        "russian": "переплачивать"
+    },
+    {
+        "form_1": "override",
+        "form_1_trans": "[ ˌəʊvəˈraɪd ]",
+        "form_2": "overrode",
+        "form_2_trans": "[ ˌəʊvəˈrəʊd ]",
+        "form_3": "overridden",
+        "form_3_trans": "[ ˌəʊvəˈrɪdən ]",
+        "russian": "отвергать, отклонять"
+    },
+    {
+        "form_1": "overrun",
+        "form_1_trans": "[ ˌəʊvəˈrʌn ]",
+        "form_2": "overran",
+        "form_2_trans": "[ ˌəʊvəˈræn ]",
+        "form_3": "overrun",
+        "form_3_trans": "[ ˌəʊvəˈrʌn ]",
+        "russian": "переливаться через край"
+    },
+    {
+        "form_1": "oversee",
+        "form_1_trans": "[ ˌəʊvəˈsiː ]",
+        "form_2": "oversaw",
+        "form_2_trans": "[ ˌəʊvəˈsɔː ]",
+        "form_3": "overseen",
+        "form_3_trans": "[ ˌəʊvəˈsiːn ]",
+        "russian": "надзирать за"
+    },
+    {
+        "form_1": "overshoot",
+        "form_1_trans": "[ ˌəʊvəˈʃuːt ]",
+        "form_2": "overshot",
+        "form_2_trans": "[ ˌəʊvəˈʃɒt ]",
+        "form_3": "overshot",
+        "form_3_trans": "[ ˌəʊvəˈʃɒt ]",
+        "russian": "расстрелять"
+    },
+    {
+        "form_1": "oversleep",
+        "form_1_trans": "[ ˌəʊvəˈsliːp ]",
+        "form_2": "overslept",
+        "form_2_trans": "[ ˌəʊvəˈslept ]",
+        "form_3": "overslept",
+        "form_3_trans": "[ ˌəʊvəˈslept ]",
+        "russian": "проспать"
+    },
+    {
+        "form_1": "overtake",
+        "form_1_trans": "[ ˌəʊvəˈteɪk ]",
+        "form_2": "overtook",
+        "form_2_trans": "[ ˌəʊvəˈtʊk ]",
+        "form_3": "overtaken",
+        "form_3_trans": "[ ˌəʊvəˈteɪkən ]",
+        "russian": "догонять"
+    },
+    {
+        "form_1": "overthrow",
+        "form_1_trans": "[ ˌəʊvəˈθrəʊ ]",
+        "form_2": "overthrew",
+        "form_2_trans": "[ ˌəʊvəˈθruː ]",
+        "form_3": "overthrown",
+        "form_3_trans": "[ ˌəʊvəˈθrəʊn ]",
+        "russian": "свергать"
+    },
+    {
+        "form_1": "partake",
+        "form_1_trans": "[ pɑːˈteɪk ]",
+        "form_2": "partook",
+        "form_2_trans": "[ pɑːˈtʊk ]",
+        "form_3": "partaken",
+        "form_3_trans": "[ pɑːˈteɪkən ]",
+        "russian": "вкушать"
+    },
+    {
+        "form_1": "pay",
+        "form_1_trans": "[ peɪ ]",
+        "form_2": "paid",
+        "form_2_trans": "[ peɪd ]",
+        "form_3": "paid",
+        "form_3_trans": "[ peɪd ]",
+        "russian": "платить"
+    },
+    {
+        "form_1": "plead",
+        "form_1_trans": "[ pliːd ]",
+        "form_2": "pleaded, pled",
+        "form_2_trans": "[ ˈpliːdɪd ] [ pled ]",
+        "form_3": "pleaded, pled",
+        "form_3_trans": "[ ˈpliːdɪd ] [ pled ]",
+        "russian": "обращаться к суду"
+    },
+    {
+        "form_1": "prepay",
+        "form_1_trans": "[ ˌpriːˈpeɪ ]",
+        "form_2": "prepaid",
+        "form_2_trans": "[ ˌpriːˈpeɪd ]",
+        "form_3": "prepaid",
+        "form_3_trans": "[ ˌpriːˈpeɪd ]",
+        "russian": "платить вперед"
+    },
+    {
+        "form_1": "prove",
+        "form_1_trans": "[ pruːv ]",
+        "form_2": "proved",
+        "form_2_trans": "[ pruːvd ]",
+        "form_3": "proved, proven",
+        "form_3_trans": "[ pruːvd ] [ ˈpruːvən ]",
+        "russian": "доказывать, оказаться"
+    },
+    {
+        "form_1": "put",
+        "form_1_trans": "[ ˈpʊt ]",
+        "form_2": "put",
+        "form_2_trans": "[ ˈpʊt ]",
+        "form_3": "put",
+        "form_3_trans": "[ ˈpʊt ]",
+        "russian": "класть"
+    },
+    {
+        "form_1": "quit",
+        "form_1_trans": "[ kwɪt ]",
+        "form_2": "quit, quitted",
+        "form_2_trans": "[ kwɪt ] [ ˈkwɪtɪd ]",
+        "form_3": "quit, quitted",
+        "form_3_trans": "[ kwɪt ] [ ˈkwɪtɪd ]",
+        "russian": "покидать, оставлять"
+    },
+    {
+        "form_1": "read",
+        "form_1_trans": "[ riːd ]",
+        "form_2": "read",
+        "form_2_trans": "[ red ]",
+        "form_3": "read",
+        "form_3_trans": "[ red ]",
+        "russian": "читать"
+    },
+    {
+        "form_1": "rebind",
+        "form_1_trans": "[ ˌriːˈbaɪnd ]",
+        "form_2": "rebound",
+        "form_2_trans": "[ rɪˈbaʊnd ]",
+        "form_3": "rebound",
+        "form_3_trans": "[ rɪˈbaʊnd ]",
+        "russian": "перевязывать"
+    },
+    {
+        "form_1": "rebuild",
+        "form_1_trans": "[ ˌriːˈbɪld ]",
+        "form_2": "rebuilt",
+        "form_2_trans": "[ ˌriːˈbɪlt ]",
+        "form_3": "rebuilt",
+        "form_3_trans": "[ ˌriːˈbɪlt ]",
+        "russian": "перестроить"
+    },
+    {
+        "form_1": "recast",
+        "form_1_trans": "[ ˌriːˈkɑːst ]",
+        "form_2": "recast",
+        "form_2_trans": "[ ˌriːˈkɑːst ]",
+        "form_3": "recast",
+        "form_3_trans": "[ ˌriːˈkɑːst ]",
+        "russian": "видоизменять, преобразовывать"
+    },
+    {
+        "form_1": "redo",
+        "form_1_trans": "[ ˌriːˈduː ]",
+        "form_2": "redid",
+        "form_2_trans": "[ ˌriːˈdɪd ]",
+        "form_3": "redone",
+        "form_3_trans": "[ ˌriːˈdʌn ]",
+        "russian": "повторять сделанное"
+    },
+    {
+        "form_1": "rehear",
+        "form_1_trans": "[ ˌriːˈhɪə ]",
+        "form_2": "reheard",
+        "form_2_trans": "[ ˌriːˈhɜːd ]",
+        "form_3": "reheard",
+        "form_3_trans": "[ ˌriːˈhɜːd ]",
+        "russian": "слушать вторично"
+    },
+    {
+        "form_1": "remake",
+        "form_1_trans": "[ ˌriːˈmeɪk ]",
+        "form_2": "remade",
+        "form_2_trans": "[ ˌriːˈmeɪd ]",
+        "form_3": "remade",
+        "form_3_trans": "[ ˌriːˈmeɪd ]",
+        "russian": "переделывать"
+    },
+    {
+        "form_1": "rend",
+        "form_1_trans": "[ rend ]",
+        "form_2": "rent",
+        "form_2_trans": "[ rent ]",
+        "form_3": "rent",
+        "form_3_trans": "[ rent ]",
+        "russian": "раздирать"
+    },
+    {
+        "form_1": "repay",
+        "form_1_trans": "[ rɪˈpeɪ ]",
+        "form_2": "repaid",
+        "form_2_trans": "[ rɪˈpeɪd ]",
+        "form_3": "repaid",
+        "form_3_trans": "[ rɪˈpeɪd ]",
+        "russian": "отдавать долг"
+    },
+    {
+        "form_1": "rerun",
+        "form_1_trans": "[ ˈriːrʌn ]",
+        "form_2": "reran",
+        "form_2_trans": "[ ˈriːræn ]",
+        "form_3": "rerun",
+        "form_3_trans": "[ ˈriːrʌn ]",
+        "russian": "выполнять повторно"
+    },
+    {
+        "form_1": "resell",
+        "form_1_trans": "[ riːˈsel ]",
+        "form_2": "resold",
+        "form_2_trans": "[ riːˈsəʊld ]",
+        "form_3": "resold",
+        "form_3_trans": "[ riːˈsəʊld ]",
+        "russian": "перепродавать"
+    },
+    {
+        "form_1": "reset",
+        "form_1_trans": "[ ˌriːˈset ]",
+        "form_2": "reset",
+        "form_2_trans": "[ ˌriːˈset ]",
+        "form_3": "reset",
+        "form_3_trans": "[ ˌriːˈset ]",
+        "russian": "возвращать"
+    },
+    {
+        "form_1": "retake",
+        "form_1_trans": "[ ˌriːˈteɪk ]",
+        "form_2": "retook",
+        "form_2_trans": "[ ˌriːˈtʊk ]",
+        "form_3": "retaken",
+        "form_3_trans": "[ ˌriːˈteɪkən ]",
+        "russian": "забирать"
+    },
+    {
+        "form_1": "retell",
+        "form_1_trans": "[ ˌriːˈtel ]",
+        "form_2": "retold",
+        "form_2_trans": "[ ˌriːˈtəʊld ]",
+        "form_3": "retold",
+        "form_3_trans": "[ ˌriːˈtəʊld ]",
+        "russian": "пересказывать"
+    },
+    {
+        "form_1": "rewrite",
+        "form_1_trans": "[ ˌriːˈraɪt ]",
+        "form_2": "rewrote",
+        "form_2_trans": "[ ˌriːˈrəʊt ]",
+        "form_3": "rewritten",
+        "form_3_trans": "[ ˌriːˈrɪtən ]",
+        "russian": "переписать"
+    },
+    {
+        "form_1": "rid",
+        "form_1_trans": "[ rɪd ]",
+        "form_2": "rid",
+        "form_2_trans": "[ rɪd ]",
+        "form_3": "rid",
+        "form_3_trans": "[ rɪd ]",
+        "russian": "избавлять"
+    },
+    {
+        "form_1": "ride",
+        "form_1_trans": "[ raɪd ]",
+        "form_2": "rode",
+        "form_2_trans": "[ rəʊd ]",
+        "form_3": "ridden",
+        "form_3_trans": "[ ˈrɪdən ]",
+        "russian": "ездить верхом"
+    },
+    {
+        "form_1": "ring",
+        "form_1_trans": "[ rɪŋ ]",
+        "form_2": "rang",
+        "form_2_trans": "[ ræŋ ]",
+        "form_3": "rung",
+        "form_3_trans": "[ rʌŋ ]",
+        "russian": "звонить"
+    },
+    {
+        "form_1": "rise",
+        "form_1_trans": "[ raɪz ]",
+        "form_2": "rose",
+        "form_2_trans": "[ rəʊz ]",
+        "form_3": "risen",
+        "form_3_trans": "[ ˈrɪzən ]",
+        "russian": "подняться"
+    },
+    {
+        "form_1": "rive",
+        "form_1_trans": "[ raɪv ]",
+        "form_2": "rived",
+        "form_2_trans": "[ raɪvd ]",
+        "form_3": "riven",
+        "form_3_trans": "[ ˈrɪvən ]",
+        "russian": "расщеплять"
+    },
+    {
+        "form_1": "run",
+        "form_1_trans": "[ rʌn ]",
+        "form_2": "ran",
+        "form_2_trans": "[ ræn ]",
+        "form_3": "run",
+        "form_3_trans": "[ rʌn ]",
+        "russian": "бежать, течь"
+    },
+    {
+        "form_1": "saw",
+        "form_1_trans": "[ ˈsɔː ]",
+        "form_2": "sawed",
+        "form_2_trans": "[ ˈsɔːd ]",
+        "form_3": "sawn, sawed",
+        "form_3_trans": "[ sɔːn ] [ ˈsɔːd ]",
+        "russian": "пилить"
+    },
+    {
+        "form_1": "say",
+        "form_1_trans": "[ ˈseɪ ]",
+        "form_2": "said",
+        "form_2_trans": "[ ˈsed ]",
+        "form_3": "said",
+        "form_3_trans": "[ ˈsed ]",
+        "russian": "говорить, сказать"
+    },
+    {
+        "form_1": "see",
+        "form_1_trans": "[ ˈsiː ]",
+        "form_2": "saw",
+        "form_2_trans": "[ ˈsɔː ]",
+        "form_3": "seen",
+        "form_3_trans": "[ ˈsiːn ]",
+        "russian": "видеть"
+    },
+    {
+        "form_1": "seek",
+        "form_1_trans": "[ siːk ]",
+        "form_2": "sought",
+        "form_2_trans": "[ ˈsɔːt ]",
+        "form_3": "sought",
+        "form_3_trans": "[ ˈsɔːt ]",
+        "russian": "искать"
+    },
+    {
+        "form_1": "sell",
+        "form_1_trans": "[ sel ]",
+        "form_2": "sold",
+        "form_2_trans": "[ səʊld ]",
+        "form_3": "sold",
+        "form_3_trans": "[ səʊld ]",
+        "russian": "продавать"
+    },
+    {
+        "form_1": "send",
+        "form_1_trans": "[ send ]",
+        "form_2": "sent",
+        "form_2_trans": "[ sent ]",
+        "form_3": "sent",
+        "form_3_trans": "[ sent ]",
+        "russian": "послать"
+    },
+    {
+        "form_1": "set",
+        "form_1_trans": "[ set ]",
+        "form_2": "set",
+        "form_2_trans": "[ set ]",
+        "form_3": "set",
+        "form_3_trans": "[ set ]",
+        "russian": "устанавливать"
+    },
+    {
+        "form_1": "sew",
+        "form_1_trans": "[ səʊ ]",
+        "form_2": "sewed",
+        "form_2_trans": "[ səʊd ]",
+        "form_3": "sewed, sewn",
+        "form_3_trans": "[ səʊd ] [ səʊn ]",
+        "russian": "шить"
+    },
+    {
+        "form_1": "shake",
+        "form_1_trans": "[ ʃeɪk ]",
+        "form_2": "shook",
+        "form_2_trans": "[ ʃʊk ]",
+        "form_3": "shaken",
+        "form_3_trans": "[ ˈʃeɪkən ]",
+        "russian": "трясти"
+    },
+    {
+        "form_1": "shave",
+        "form_1_trans": "[ ʃeɪv ]",
+        "form_2": "shaved",
+        "form_2_trans": "[ ʃeɪvd ]",
+        "form_3": "shaved, shaven",
+        "form_3_trans": "[ ʃeɪvd ] ˈʃeɪvən ]",
+        "russian": "брить"
+    },
+    {
+        "form_1": "shear",
+        "form_1_trans": "[ ʃɪə ]",
+        "form_2": "sheared",
+        "form_2_trans": "[ ʃɪəd ]",
+        "form_3": "shorn, sheared",
+        "form_3_trans": "[ ʃɔːn ] ʃɪəd ]",
+        "russian": "стричь"
+    },
+    {
+        "form_1": "shed",
+        "form_1_trans": "[ ʃed ]",
+        "form_2": "shed",
+        "form_2_trans": "[ ʃed ]",
+        "form_3": "shed",
+        "form_3_trans": "[ ʃed ]",
+        "russian": "проливать"
+    },
+    {
+        "form_1": "shine",
+        "form_1_trans": "[ ʃaɪn ]",
+        "form_2": "shone, shined",
+        "form_2_trans": "[ ʃɒn ] [ ʃaɪnd ]",
+        "form_3": "shone, shined",
+        "form_3_trans": "[ ʃɒn ] [ ʃaɪnd ]",
+        "russian": "светить, сиять"
+    },
+    {
+        "form_1": "shoe",
+        "form_1_trans": "[ ʃuː ]",
+        "form_2": "shod",
+        "form_2_trans": "[ ʃɒd ]",
+        "form_3": "shod",
+        "form_3_trans": "[ ʃɒd ]",
+        "russian": "обувать, подковывать"
+    },
+    {
+        "form_1": "shoot",
+        "form_1_trans": "[ ʃuːt ]",
+        "form_2": "shot",
+        "form_2_trans": "[ ʃɒt ]",
+        "form_3": "shot",
+        "form_3_trans": "[ ʃɒt ]",
+        "russian": "стрелять, давать побеги"
+    },
+    {
+        "form_1": "show",
+        "form_1_trans": "[ ʃəʊ ]",
+        "form_2": "showed",
+        "form_2_trans": "[ ʃəʊd ]",
+        "form_3": "shown, showed",
+        "form_3_trans": "[ ʃəʊn ] ʃəʊd ]",
+        "russian": "показывать"
+    },
+    {
+        "form_1": "shred",
+        "form_1_trans": "[ ʃred ]",
+        "form_2": "shred, shredded",
+        "form_2_trans": "[ ʃred ] [ ˈʃredɪd ]",
+        "form_3": "shred, shredded",
+        "form_3_trans": "[ ʃred ] [ ˈʃredɪd ]",
+        "russian": "кромсать, расползаться"
+    },
+    {
+        "form_1": "shrink",
+        "form_1_trans": "[ ʃrɪŋk ]",
+        "form_2": "shrank",
+        "form_2_trans": "[ ʃræŋk ]",
+        "form_3": "shrunk",
+        "form_3_trans": "[ ʃrʌŋk ]",
+        "russian": "сокращаться, сжиматься"
+    },
+    {
+        "form_1": "shrive",
+        "form_1_trans": "[ ʃraɪv ]",
+        "form_2": "shrove, shrived",
+        "form_2_trans": "[ ʃrəʊv ] [ ʃraɪvd ]",
+        "form_3": "shriven, shrived",
+        "form_3_trans": "[ ˈʃrɪvən ] [ ʃraɪvd ]",
+        "russian": "исповедовать"
+    },
+    {
+        "form_1": "shut",
+        "form_1_trans": "[ ʃʌt ]",
+        "form_2": "shut",
+        "form_2_trans": "[ ʃʌt ]",
+        "form_3": "shut",
+        "form_3_trans": "[ ʃʌt ]",
+        "russian": "закрывать"
+    },
+    {
+        "form_1": "sing",
+        "form_1_trans": "[ sɪŋ ]",
+        "form_2": "sang",
+        "form_2_trans": "[ sæŋ ]",
+        "form_3": "sung",
+        "form_3_trans": "[ sʌŋ ]",
+        "russian": "петь"
+    },
+    {
+        "form_1": "sink",
+        "form_1_trans": "[ sɪŋk ]",
+        "form_2": "sank",
+        "form_2_trans": "[ sæŋk ]",
+        "form_3": "sunk",
+        "form_3_trans": "[ sʌŋk ]",
+        "russian": "тонуть"
+    },
+    {
+        "form_1": "sit",
+        "form_1_trans": "[ sɪt ]",
+        "form_2": "sat",
+        "form_2_trans": "[ sæt ]",
+        "form_3": "sat",
+        "form_3_trans": "[ sæt ]",
+        "russian": "сидеть"
+    },
+    {
+        "form_1": "slay",
+        "form_1_trans": "[ sleɪ ]",
+        "form_2": "slew",
+        "form_2_trans": "[ sluː ]",
+        "form_3": "slain",
+        "form_3_trans": "[ sleɪn ]",
+        "russian": "убивать"
+    },
+    {
+        "form_1": "sleep",
+        "form_1_trans": "[ sliːp ]",
+        "form_2": "slept",
+        "form_2_trans": "[ slept ]",
+        "form_3": "slept",
+        "form_3_trans": "[ slept ]",
+        "russian": "спать"
+    },
+    {
+        "form_1": "slide",
+        "form_1_trans": "[ slaɪd ]",
+        "form_2": "slid",
+        "form_2_trans": "[ slɪd ]",
+        "form_3": "slid",
+        "form_3_trans": "[ slɪd ]",
+        "russian": "скользить"
+    },
+    {
+        "form_1": "sling",
+        "form_1_trans": "[ səlɪŋ ]",
+        "form_2": "slung",
+        "form_2_trans": "[ slʌŋ ]",
+        "form_3": "slung",
+        "form_3_trans": "[ slʌŋ ]",
+        "russian": "швырять, подвешивать"
+    },
+    {
+        "form_1": "slink",
+        "form_1_trans": "[ slɪŋk ]",
+        "form_2": "slunk",
+        "form_2_trans": "[ slʌŋk ]",
+        "form_3": "slunk",
+        "form_3_trans": "[ slʌŋk ]",
+        "russian": "идти крадучись"
+    },
+    {
+        "form_1": "slit",
+        "form_1_trans": "[ slɪt ]",
+        "form_2": "slit",
+        "form_2_trans": "[ slɪt ]",
+        "form_3": "slit",
+        "form_3_trans": "[ slɪt ]",
+        "russian": "раздирать, разрезать (вдоль)"
+    },
+    {
+        "form_1": "smell",
+        "form_1_trans": "[ smel ]",
+        "form_2": "smelt, smelled",
+        "form_2_trans": "[ smelt ] [ smeld ]",
+        "form_3": "smelt, smelled",
+        "form_3_trans": "[ smelt ] [ smeld ]",
+        "russian": "пахнуть, нюхать"
+    },
+    {
+        "form_1": "smite",
+        "form_1_trans": "[ smaɪt ]",
+        "form_2": "smote",
+        "form_2_trans": "[ sməʊt ]",
+        "form_3": "smitten",
+        "form_3_trans": "[ smɪtən ]",
+        "russian": "ударять, разбивать"
+    },
+    {
+        "form_1": "sow",
+        "form_1_trans": "[ səʊ ]",
+        "form_2": "sowed",
+        "form_2_trans": "[ səʊd ]",
+        "form_3": "sowed, sown",
+        "form_3_trans": "[ səʊd ] [ səʊn ]",
+        "russian": "сеять"
+    },
+    {
+        "form_1": "speak",
+        "form_1_trans": "[ spiːk ]",
+        "form_2": "spoke",
+        "form_2_trans": "[ spəʊk ]",
+        "form_3": "spoken",
+        "form_3_trans": "[ ˈspəʊkən ]",
+        "russian": "говорить"
+    },
+    {
+        "form_1": "speed",
+        "form_1_trans": "[ spiːd ]",
+        "form_2": "sped, speeded",
+        "form_2_trans": "[ sped ] [ ˈspiːdɪd ]",
+        "form_3": "sped, speeded",
+        "form_3_trans": "[ sped ] [ ˈspiːdɪd ]",
+        "russian": "ускорять, спешить"
+    },
+    {
+        "form_1": "spell",
+        "form_1_trans": "[ spel ]",
+        "form_2": "spelt, spelled",
+        "form_2_trans": "[ spelt ] [ speld ]",
+        "form_3": "spell, spelled",
+        "form_3_trans": "[ spel ] [ speld ]",
+        "russian": "писать или читать по буквам"
+    },
+    {
+        "form_1": "spend",
+        "form_1_trans": "[ spend ]",
+        "form_2": "spent",
+        "form_2_trans": "[ spent ]",
+        "form_3": "spent",
+        "form_3_trans": "[ spent ]",
+        "russian": "тратить, проводить"
+    },
+    {
+        "form_1": "spill",
+        "form_1_trans": "[ spɪl ]",
+        "form_2": "spilt, spilled",
+        "form_2_trans": "[ spɪlt ] [ spɪld ]",
+        "form_3": "spilt, spilled",
+        "form_3_trans": "[ spɪlt ] [ spɪld ]",
+        "russian": "пролить"
+    },
+    {
+        "form_1": "spin",
+        "form_1_trans": "[ spɪn ]",
+        "form_2": "spun, span",
+        "form_2_trans": "[ spʌn ] [ spæn ]",
+        "form_3": "spun",
+        "form_3_trans": "[ spʌn ]",
+        "russian": "прясть"
+    },
+    {
+        "form_1": "spit",
+        "form_1_trans": "[ spɪt ]",
+        "form_2": "spat, spit",
+        "form_2_trans": "[ spæt ] [ spɪt ]",
+        "form_3": "spat, spit",
+        "form_3_trans": "[ spæt ] [ spɪt ]",
+        "russian": "плевать"
+    },
+    {
+        "form_1": "split",
+        "form_1_trans": "[ splɪt ]",
+        "form_2": "split",
+        "form_2_trans": "[ splɪt ]",
+        "form_3": "split",
+        "form_3_trans": "[ splɪt ]",
+        "russian": "расщепить"
+    },
+    {
+        "form_1": "spoil",
+        "form_1_trans": "[ spɔɪl ]",
+        "form_2": "spoilt, spoiled",
+        "form_2_trans": "[ spɔɪlt ] [ spɔɪld ]",
+        "form_3": "spoilt, spoiled",
+        "form_3_trans": "[ spɔɪlt ] [ spɔɪld ]",
+        "russian": "портить"
+    },
+    {
+        "form_1": "spotlight",
+        "form_1_trans": "[ ˈspɒtlaɪt ]",
+        "form_2": "spotlit, spotlighted",
+        "form_2_trans": "[ ˈspɒtlaɪt ] [ ˈspɒtlaɪtɪd ]",
+        "form_3": "spotlit, spotlighted",
+        "form_3_trans": "[ ˈspɒtlaɪt ] [ ˈspɒtlaɪtɪd ]",
+        "russian": "осветить"
+    },
+    {
+        "form_1": "spread",
+        "form_1_trans": "[ spred ]",
+        "form_2": "spread",
+        "form_2_trans": "[ spred ]",
+        "form_3": "spread",
+        "form_3_trans": "[ spred ]",
+        "russian": "распространяться"
+    },
+    {
+        "form_1": "spring",
+        "form_1_trans": "[ sprɪŋ ]",
+        "form_2": "sprang",
+        "form_2_trans": "[ spræŋ ]",
+        "form_3": "sprung",
+        "form_3_trans": "[ sprʌŋ ]",
+        "russian": "скакать, пружинить"
+    },
+    {
+        "form_1": "stand",
+        "form_1_trans": "[ stænd ]",
+        "form_2": "stood",
+        "form_2_trans": "[ stʊd ]",
+        "form_3": "stood",
+        "form_3_trans": "[ stʊd ]",
+        "russian": "стоять"
+    },
+    {
+        "form_1": "stave",
+        "form_1_trans": "[ steɪv ]",
+        "form_2": "staved, stove",
+        "form_2_trans": "[ steɪvd ] [ stəʊv ]",
+        "form_3": "staved, stove",
+        "form_3_trans": "[ steɪvd ] [ stəʊv ]",
+        "russian": "проламывать, разбивать"
+    },
+    {
+        "form_1": "steal",
+        "form_1_trans": "[ stiːl ]",
+        "form_2": "stole",
+        "form_2_trans": "[ stəʊl ]",
+        "form_3": "stolen",
+        "form_3_trans": "[ ˈstəʊlən ]",
+        "russian": "украсть"
+    },
+    {
+        "form_1": "stick",
+        "form_1_trans": "[ stɪk ]",
+        "form_2": "stuck",
+        "form_2_trans": "[ stʌk ]",
+        "form_3": "stuck",
+        "form_3_trans": "[ stʌk ]",
+        "russian": "уколоть, приклеить"
+    },
+    {
+        "form_1": "sting",
+        "form_1_trans": "[ stɪŋ ]",
+        "form_2": "stung",
+        "form_2_trans": "[ stʌɡ ]",
+        "form_3": "stung",
+        "form_3_trans": "[ stʌɡ ]",
+        "russian": "ужалить"
+    },
+    {
+        "form_1": "stink",
+        "form_1_trans": "[ stɪŋk ]",
+        "form_2": "stank, stunk",
+        "form_2_trans": "[ stæŋk ] [ stʌŋk ]",
+        "form_3": "stunk",
+        "form_3_trans": "[ stʌŋk ]",
+        "russian": "вонять"
+    },
+    {
+        "form_1": "strew",
+        "form_1_trans": "[ struː ]",
+        "form_2": "strewed",
+        "form_2_trans": "[ struːd ]",
+        "form_3": "strewn, strewed",
+        "form_3_trans": "[ struːn ] [ struːd ]",
+        "russian": "усеять, устлать"
+    },
+    {
+        "form_1": "stride",
+        "form_1_trans": "[ straɪd ]",
+        "form_2": "strode",
+        "form_2_trans": "[ strəʊd ]",
+        "form_3": "stridden",
+        "form_3_trans": "[ ˈstrɪdən ]",
+        "russian": "шагать"
+    },
+    {
+        "form_1": "strike",
+        "form_1_trans": "[ straɪk ]",
+        "form_2": "struck",
+        "form_2_trans": "[ strʌk ]",
+        "form_3": "struck",
+        "form_3_trans": "[ strʌk ]",
+        "russian": "ударить, бить, бастовать"
+    },
+    {
+        "form_1": "string",
+        "form_1_trans": "[ strɪŋ ]",
+        "form_2": "strung",
+        "form_2_trans": "[ strʌŋ ]",
+        "form_3": "strung",
+        "form_3_trans": "[ strʌŋ ]",
+        "russian": "нанизать, натянуть"
+    },
+    {
+        "form_1": "strive",
+        "form_1_trans": "[ straɪv ]",
+        "form_2": "strove",
+        "form_2_trans": "[ strəʊv ]",
+        "form_3": "striven",
+        "form_3_trans": "[ ˈstrɪvən ]",
+        "russian": "стараться"
+    },
+    {
+        "form_1": "sublet",
+        "form_1_trans": "[ ˌsʌbˈlet ]",
+        "form_2": "sublet",
+        "form_2_trans": "[ ˌsʌbˈlet ]",
+        "form_3": "sublet",
+        "form_3_trans": "[ ˌsʌbˈlet ]",
+        "russian": "передавать в субаренду"
+    },
+    {
+        "form_1": "swear",
+        "form_1_trans": "[ sweə ]",
+        "form_2": "swore",
+        "form_2_trans": "[ swɔː ]",
+        "form_3": "sworn",
+        "form_3_trans": "[ swɔːn ]",
+        "russian": "клясться, браниться"
+    },
+    {
+        "form_1": "sweep",
+        "form_1_trans": "[ swiːp ]",
+        "form_2": "swept",
+        "form_2_trans": "[ swept ]",
+        "form_3": "swept",
+        "form_3_trans": "[ swept ]",
+        "russian": "мести, промчаться"
+    },
+    {
+        "form_1": "swell",
+        "form_1_trans": "[ swel ]",
+        "form_2": "swelled",
+        "form_2_trans": "[ sweld ]",
+        "form_3": "swollen, swelled",
+        "form_3_trans": "[ ˈswəʊlən ] [ sweld ]",
+        "russian": "вздуться"
+    },
+    {
+        "form_1": "swim",
+        "form_1_trans": "[ swɪm ]",
+        "form_2": "swam",
+        "form_2_trans": "[ swæm ]",
+        "form_3": "swum",
+        "form_3_trans": "[ swʌm ]",
+        "russian": "плыть"
+    },
+    {
+        "form_1": "swing",
+        "form_1_trans": "[ swɪŋ ]",
+        "form_2": "swung",
+        "form_2_trans": "[ swʌŋ ]",
+        "form_3": "swung",
+        "form_3_trans": "[ swʌŋ ]",
+        "russian": "качаться"
+    },
+    {
+        "form_1": "take",
+        "form_1_trans": "[ teɪk ]",
+        "form_2": "took",
+        "form_2_trans": "[ tʊk ]",
+        "form_3": "taken",
+        "form_3_trans": "[ ˈteɪkən ]",
+        "russian": "взять, брать"
+    },
+    {
+        "form_1": "teach",
+        "form_1_trans": "[ tiːtʃ ]",
+        "form_2": "taught",
+        "form_2_trans": "[ tɔːt ]",
+        "form_3": "taught",
+        "form_3_trans": "[ tɔːt ]",
+        "russian": "учить"
+    },
+    {
+        "form_1": "tear",
+        "form_1_trans": "[ ˈteə ]",
+        "form_2": "tore",
+        "form_2_trans": "[ ˈtɔː ]",
+        "form_3": "torn",
+        "form_3_trans": "[ ˈtɔːn ]",
+        "russian": "рвать"
+    },
+    {
+        "form_1": "tell",
+        "form_1_trans": "[ tel ]",
+        "form_2": "told",
+        "form_2_trans": "[ təʊld ]",
+        "form_3": "told",
+        "form_3_trans": "[ təʊld ]",
+        "russian": "рассказывать, сказать"
+    },
+    {
+        "form_1": "think",
+        "form_1_trans": "[ ˈθɪŋk ]",
+        "form_2": "thought",
+        "form_2_trans": "[ ˈθɔːt ]",
+        "form_3": "thought",
+        "form_3_trans": "[ ˈθɔːt ]",
+        "russian": "думать"
+    },
+    {
+        "form_1": "thrive",
+        "form_1_trans": "[ θraɪv ]",
+        "form_2": "throve, thrived",
+        "form_2_trans": "[ ˈθrəʊv ] [ θraɪvd ]",
+        "form_3": "thriven, thrived",
+        "form_3_trans": "[ ˈθrɪvən ] [ θraɪvd ]",
+        "russian": "процветать"
+    },
+    {
+        "form_1": "throw",
+        "form_1_trans": "[ ˈθrəʊ ]",
+        "form_2": "threw",
+        "form_2_trans": "[ θruː ]",
+        "form_3": "thrown",
+        "form_3_trans": "[ ˈθrəʊn ]",
+        "russian": "бросить"
+    },
+    {
+        "form_1": "thrust",
+        "form_1_trans": "[ θrʌst ]",
+        "form_2": "thrust",
+        "form_2_trans": "[ θrʌst ]",
+        "form_3": "thrust",
+        "form_3_trans": "[ θrʌst ]",
+        "russian": "толкнуть, сунуть"
+    },
+    {
+        "form_1": "tread",
+        "form_1_trans": "[ tred ]",
+        "form_2": "trod",
+        "form_2_trans": "[ trɒd ]",
+        "form_3": "trod, trodden",
+        "form_3_trans": "[ trɒd ] [ ˈtrɒdən ]",
+        "russian": "ступать"
+    },
+    {
+        "form_1": "unbend",
+        "form_1_trans": "[ ˌʌnˈbend ]",
+        "form_2": "unbent",
+        "form_2_trans": "[ ˌʌnˈbent ]",
+        "form_3": "unbent",
+        "form_3_trans": "[ ˌʌnˈbent ]",
+        "russian": "разогнуть"
+    },
+    {
+        "form_1": "underbid",
+        "form_1_trans": "[ ˌʌndəˈbɪd ]",
+        "form_2": "underbid",
+        "form_2_trans": "[ ˌʌndəˈbɪd ]",
+        "form_3": "underbid",
+        "form_3_trans": "[ ˌʌndəˈbɪd ]",
+        "russian": "снижать цену"
+    },
+    {
+        "form_1": "undercut",
+        "form_1_trans": "[ ˌʌndəˈkʌt ]",
+        "form_2": "undercut",
+        "form_2_trans": "[ ˌʌndəˈkʌt ]",
+        "form_3": "undercut",
+        "form_3_trans": "[ ˌʌndəˈkʌt ]",
+        "russian": "сбивать цены"
+    },
+    {
+        "form_1": "undergo",
+        "form_1_trans": "[ ˌʌndəˈɡəʊ ]",
+        "form_2": "underwent",
+        "form_2_trans": "[ ˌʌndəˈwent ]",
+        "form_3": "undergone",
+        "form_3_trans": "[ ˌʌndəˈɡɒn ]",
+        "russian": "проходить, подвергаться"
+    },
+    {
+        "form_1": "underlie",
+        "form_1_trans": "[ ˌʌndəˈlaɪ ]",
+        "form_2": "underlay",
+        "form_2_trans": "[ ˌʌndəˈleɪ ]",
+        "form_3": "underlain",
+        "form_3_trans": "[ ˌʌndəˈleɪn ]",
+        "russian": "лежать в основе"
+    },
+    {
+        "form_1": "underpay",
+        "form_1_trans": "[ ˌʌndəˈpeɪ ]",
+        "form_2": "underpaid",
+        "form_2_trans": "[ ˌʌndəˈpeɪd ]",
+        "form_3": "underpaid",
+        "form_3_trans": "[ ˌʌndəˈpeɪd ]",
+        "russian": "оплачивать слишком низко"
+    },
+    {
+        "form_1": "undersell",
+        "form_1_trans": "[ ˌʌndəˈsel ]",
+        "form_2": "undersold",
+        "form_2_trans": "[ ˌʌndəˈsəʊld ]",
+        "form_3": "undersold",
+        "form_3_trans": "[ ˌʌndəˈsəʊld ]",
+        "russian": "продавать дешевле"
+    },
+    {
+        "form_1": "understand",
+        "form_1_trans": "[ ˌʌndəˈstænd ]",
+        "form_2": "understood",
+        "form_2_trans": "[ ˌʌndəˈstʊd ]",
+        "form_3": "understood",
+        "form_3_trans": "[ ˌʌndəˈstʊd ]",
+        "russian": "понимать"
+    },
+    {
+        "form_1": "undertake",
+        "form_1_trans": "[ ˌʌndəˈteɪk ]",
+        "form_2": "undertook",
+        "form_2_trans": "[ ˌʌndəˈtʊk ]",
+        "form_3": "undertaken",
+        "form_3_trans": "[ ˌʌndəˈteɪkən ]",
+        "russian": "предпринять"
+    },
+    {
+        "form_1": "underwrite",
+        "form_1_trans": "[ ˌʌndəˈraɪt ]",
+        "form_2": "underwrote",
+        "form_2_trans": "[ ˌʌndəˈrəʊt ]",
+        "form_3": "underwritten",
+        "form_3_trans": "[ ˌʌndəˈrɪtən ]",
+        "russian": "подписывать"
+    },
+    {
+        "form_1": "undo",
+        "form_1_trans": "[ ʌnˈduː ]",
+        "form_2": "undid",
+        "form_2_trans": "[ ʌnˈdɪd ]",
+        "form_3": "undone",
+        "form_3_trans": "[ ʌnˈdʌn ]",
+        "russian": "уничтожать сделанное"
+    },
+    {
+        "form_1": "unfreeze",
+        "form_1_trans": "[ ˌʌnˈfriːz ]",
+        "form_2": "unfroze",
+        "form_2_trans": "[ ˌʌnˈfrəʊz]",
+        "form_3": "unfrozen",
+        "form_3_trans": "[ ˌʌnˈfrəʊzən ]",
+        "russian": "размораживать"
+    },
+    {
+        "form_1": "unsay",
+        "form_1_trans": "[ ˌʌnˈseɪ ]",
+        "form_2": "unsaid",
+        "form_2_trans": "[ ˌʌnˈsed ]",
+        "form_3": "unsaid",
+        "form_3_trans": "[ ˌʌnˈsed ]",
+        "russian": "брать назад свои слова"
+    },
+    {
+        "form_1": "unwind",
+        "form_1_trans": "[ ˌʌnˈwaɪnd ]",
+        "form_2": "unwound",
+        "form_2_trans": "[ ˌʌnˈwaʊnd ]",
+        "form_3": "unwound",
+        "form_3_trans": "[ ˌʌnˈwaʊnd ]",
+        "russian": "развертывать"
+    },
+    {
+        "form_1": "uphold",
+        "form_1_trans": "[ ˌʌpˈhəʊld ]",
+        "form_2": "upheld",
+        "form_2_trans": "[ ˌʌpˈheld ]",
+        "form_3": "upheld",
+        "form_3_trans": "[ ˌʌpˈheld ]",
+        "russian": "поддерживать"
+    },
+    {
+        "form_1": "upset",
+        "form_1_trans": "[ ˌʌpˈset ]",
+        "form_2": "upset",
+        "form_2_trans": "[ ˌʌpˈset ]",
+        "form_3": "upset",
+        "form_3_trans": "[ ˌʌpˈset ]",
+        "russian": "опрокинуть, огорчить"
+    },
+    {
+        "form_1": "wake",
+        "form_1_trans": "[ weɪk ]",
+        "form_2": "woke, waked",
+        "form_2_trans": "[ wəʊk ] [ weɪkt ]",
+        "form_3": "woken, waked",
+        "form_3_trans": "[ ˈwəʊkən ] [ weɪkt ]",
+        "russian": "просыпаться, будить"
+    },
+    {
+        "form_1": "waylay",
+        "form_1_trans": "[ ˌweɪˈleɪ ]",
+        "form_2": "waylaid",
+        "form_2_trans": "[ ˌweɪˈleɪd ]",
+        "form_3": "waylaid",
+        "form_3_trans": "[ ˌweɪˈleɪd ]",
+        "russian": "подстерегать"
+    },
+    {
+        "form_1": "wear",
+        "form_1_trans": "[ weə ]",
+        "form_2": "wore",
+        "form_2_trans": "[ wɔː ]",
+        "form_3": "worn",
+        "form_3_trans": "[ wɔːn ]",
+        "russian": "носить (одежду)"
+    },
+    {
+        "form_1": "weave",
+        "form_1_trans": "[ wiːv ]",
+        "form_2": "wove, weaved",
+        "form_2_trans": "[ wəʊv ] [ wiːvd ]",
+        "form_3": "woven, weaved",
+        "form_3_trans": "[ ˈwəʊvən ] [ wiːvd ]",
+        "russian": "ткать"
+    },
+    {
+        "form_1": "wed",
+        "form_1_trans": "[ wed ]",
+        "form_2": "wed, wedded",
+        "form_2_trans": "[ wed ] [ ˈwedɪd ]",
+        "form_3": "wed, wedded",
+        "form_3_trans": "[ wed ] [ ˈwedɪd ]",
+        "russian": "выдавать замуж"
+    },
+    {
+        "form_1": "weep",
+        "form_1_trans": "[ wiːp ]",
+        "form_2": "wept",
+        "form_2_trans": "[ wept ]",
+        "form_3": "wept",
+        "form_3_trans": "[ wept ]",
+        "russian": "плакать"
+    },
+    {
+        "form_1": "wet",
+        "form_1_trans": "[ wet ]",
+        "form_2": "wet, wetted",
+        "form_2_trans": "[ wet ] [ ˈwetɪd ]",
+        "form_3": "wet, wetted",
+        "form_3_trans": "[ wet ] [ ˈwetɪd ]",
+        "russian": "мочить, увлажнять"
+    },
+    {
+        "form_1": "win",
+        "form_1_trans": "[ wɪn ]",
+        "form_2": "won",
+        "form_2_trans": "[ wʌn ]",
+        "form_3": "won",
+        "form_3_trans": "[ wʌn ]",
+        "russian": "выиграть"
+    },
+    {
+        "form_1": "wind",
+        "form_1_trans": "[ waɪnd ]",
+        "form_2": "wound",
+        "form_2_trans": "[ waund ]",
+        "form_3": "wound",
+        "form_3_trans": "[ waund ]",
+        "russian": "заводить (механизм)"
+    },
+    {
+        "form_1": "withdraw",
+        "form_1_trans": "[ wɪðˈdrɔː ]",
+        "form_2": "withdrew",
+        "form_2_trans": "[ wɪðˈdruː ]",
+        "form_3": "withdrawn",
+        "form_3_trans": "[ wɪðˈdrɔːn ]",
+        "russian": "взять назад, отозвать"
+    },
+    {
+        "form_1": "withhold",
+        "form_1_trans": "[ wɪðˈhəʊld ]",
+        "form_2": "withheld",
+        "form_2_trans": "[ wɪðˈheld ]",
+        "form_3": "withheld",
+        "form_3_trans": "[ wɪðˈheld ]",
+        "russian": "удерживать"
+    },
+    {
+        "form_1": "withstand",
+        "form_1_trans": "[ wɪðˈstænd ]",
+        "form_2": "withstood",
+        "form_2_trans": "[ wɪðˈstʊd ]",
+        "form_3": "withstood",
+        "form_3_trans": "[ wɪðˈstʊd ]",
+        "russian": "противиться"
+    },
+    {
+        "form_1": "work",
+        "form_1_trans": "[ ˈwɜːk ]",
+        "form_2": "worked, wrought",
+        "form_2_trans": "[ wɜːkt ] [ ˈrɔːt ]",
+        "form_3": "worked, wrought",
+        "form_3_trans": "[ wɜːkt ] [ ˈrɔːt ]",
+        "russian": "работать"
+    },
+    {
+        "form_1": "wring",
+        "form_1_trans": "[ rɪŋ ]",
+        "form_2": "wrung",
+        "form_2_trans": "[ rʌŋ ]",
+        "form_3": "wrung",
+        "form_3_trans": "[ rʌŋ ]",
+        "russian": "скрутить, сжать"
+    },
+    {
+        "form_1": "write",
+        "form_1_trans": "[ ˈraɪt ]",
+        "form_2": "wrote",
+        "form_2_trans": "[ rəʊt ]",
+        "form_3": "written",
+        "form_3_trans": "[ ˈrɪtən ]",
+        "russian": "писать"
+    }
+]
