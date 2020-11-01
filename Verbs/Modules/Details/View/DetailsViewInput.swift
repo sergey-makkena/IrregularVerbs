@@ -8,4 +8,5 @@
 
 protocol DetailsViewInput: class {
     func setupInitialState()
+    func setVerb(_ verb: VerbEntity)
 }

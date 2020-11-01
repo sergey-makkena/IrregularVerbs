@@ -8,7 +8,7 @@
 import UIKit
 
 protocol ResultsTableViewDelegate: class {
-    func didSelect(token: String)
+    func didSelect(verb: VerbEntity)
 }
 
 class MainViewSearchResultsController: UIViewController {
@@ -30,7 +30,7 @@ class MainViewSearchResultsController: UIViewController {
         view.register(UINib(nibName: CellIdentifiers.defaultCell.rawValue, bundle: nil), forCellReuseIdentifier: CellIdentifiers.defaultCell.rawValue)
         
         view.translatesAutoresizingMaskIntoConstraints = false
-        view.backgroundColor = .clear
+        view.backgroundColor = .white
         view.estimatedRowHeight = 100.0
         view.separatorStyle = .none
         view.rowHeight = UITableView.automaticDimension
@@ -45,7 +45,7 @@ class MainViewSearchResultsController: UIViewController {
     // MARK: Life cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .lightGray
+        view.backgroundColor = .white
     }
     
     override func loadView() {
@@ -75,6 +75,9 @@ class MainViewSearchResultsController: UIViewController {
 extension MainViewSearchResultsController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        if let verb = results?[indexPath.row] {
+            delegate?.didSelect(verb: verb)
+        }
         tableView.deselectRow(at: indexPath, animated: true)
     }
 }
@@ -92,7 +95,10 @@ extension MainViewSearchResultsController: UITableViewDataSource {
     func defaultCell(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> MainViewResultsCell {
         let cell: MainViewResultsCell = tableView.dequeueReusableCell(withIdentifier: CellIdentifiers.defaultCell.rawValue, for: indexPath) as! MainViewResultsCell
         if let entity = results?[indexPath.row] {
-            cell.setText(titleText: entity.russian, descriptionText: entity.form_1 + " | " + entity.form_2 + " | " + entity.form_3)
+            cell.setText(titleText: entity.russian,
+                         form_1: entity.form_1,
+                         form_2: entity.form_2,
+                         form_3: entity.form_3)
         }
         return cell
     }

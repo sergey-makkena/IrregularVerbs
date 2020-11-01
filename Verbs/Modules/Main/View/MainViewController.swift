@@ -17,7 +17,11 @@ class MainViewController: UIViewController {
     }()
     
     private var didSetupConstraints = false
-    private lazy var resultsController = MainViewSearchResultsController()
+    private lazy var resultsController: MainViewSearchResultsController = {
+        let controller = MainViewSearchResultsController()
+        controller.delegate = self
+        return controller
+    }()
 
     private enum CellIdentifiers: String {
         case defaultCell = "MainViewResultsCell"
@@ -26,7 +30,7 @@ class MainViewController: UIViewController {
     private lazy var searchController: UISearchController = {
         let searchController = UISearchController(searchResultsController: resultsController)
         searchController.obscuresBackgroundDuringPresentation = false
-        searchController.searchBar.placeholder = "Find an irregular verb"
+        searchController.searchBar.placeholder = "Поиск"
         searchController.searchBar.delegate = self
         searchController.searchResultsUpdater = self
         searchController.automaticallyShowsScopeBar = false
@@ -40,9 +44,10 @@ class MainViewController: UIViewController {
         view.register(UINib(nibName: CellIdentifiers.defaultCell.rawValue, bundle: nil), forCellReuseIdentifier: CellIdentifiers.defaultCell.rawValue)
         
         view.translatesAutoresizingMaskIntoConstraints = false
-        view.backgroundColor = .clear
+        view.backgroundColor = .white
         view.estimatedRowHeight = 100.0
         view.rowHeight = UITableView.automaticDimension
+        view.separatorStyle = .none
         view.separatorInset = UIEdgeInsets(top: 0, left: 16, bottom: 0, right: 16)
         view.showsVerticalScrollIndicator = false
         view.delegate = self
@@ -54,14 +59,12 @@ class MainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         presenter.viewIsReady()
-        navigationItem.searchController = searchController
     }
     
     override func loadView() {
         super.loadView()
         
-        view.addSubview(tableView)
-        
+        view.addSubview(tableView) 
         view.setNeedsUpdateConstraints()
     }
     
@@ -96,6 +99,8 @@ class MainViewController: UIViewController {
 extension MainViewController: MainViewInput {
     func setupInitialState() {
         view.backgroundColor = .white
+        navigationItem.searchController = searchController
+        title = "Неправильные глаголы"
     }
 }
 
@@ -103,7 +108,7 @@ extension MainViewController: MainViewInput {
 extension MainViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        presenter.showDetails()
+        presenter.showDetails(verb: verbs[indexPath.row])
         tableView.deselectRow(at: indexPath, animated: true)
     }
 }
@@ -117,7 +122,10 @@ extension MainViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell: MainViewResultsCell = tableView.dequeueReusableCell(withIdentifier: CellIdentifiers.defaultCell.rawValue, for: indexPath) as! MainViewResultsCell
         let entity = verbs[indexPath.row]
-        cell.setText(titleText: entity.russian, descriptionText: entity.form_1 + " | " + entity.form_2 + " | " + entity.form_3)
+        cell.setText(titleText: entity.russian,
+                     form_1: entity.form_1,
+                     form_2: entity.form_2,
+                     form_3: entity.form_3)
         
         return cell
     }
@@ -145,9 +153,15 @@ extension MainViewController: UISearchResultsUpdating {
     func updateSearchResults(for searchController: UISearchController) {
         if searchController.searchBar.searchTextField.isFirstResponder {
             searchController.showsSearchResultsController = true
-            searchController.searchBar.searchTextField.backgroundColor = UIColor.green.withAlphaComponent(0.1)
+            //            searchController.searchBar.searchTextField.backgroundColor = UIColor.lightGray.withAlphaComponent(0.4)
         } else {
             searchController.searchBar.searchTextField.backgroundColor = nil
         }
+    }
+}
+
+extension MainViewController: ResultsTableViewDelegate {
+    func didSelect(verb: VerbEntity) {
+        presenter.showDetails(verb: verb)
     }
 }

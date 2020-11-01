@@ -11,8 +11,10 @@ class MainRouter :BaseRouter {
 }
 
 extension MainRouter: MainRouterInput {
-    func showDetails() {
+
+    func showDetails(verb: VerbEntity) {
         let initializer = DetailsModuleInitializer()
+        initializer.detailsViewController.setVerb(verb)
         viewController?.present(initializer.detailsViewController, animated: true, completion: nil)
         print("Show Details")
     }

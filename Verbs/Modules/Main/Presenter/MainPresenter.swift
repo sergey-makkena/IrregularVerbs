@@ -31,7 +31,7 @@ extension MainPresenter: MainViewOutput {
         return interactor.doSearch(text: text)
     }
 
-    func showDetails() {
-        router.showDetails()
+    func showDetails(verb: VerbEntity) {
+        router.showDetails(verb: verb)
     }
 }

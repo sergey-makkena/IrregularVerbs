@@ -9,5 +9,5 @@
 import Foundation
 
 protocol MainRouterInput {
-    func showDetails()
+    func showDetails(verb: VerbEntity)
 }

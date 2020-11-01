@@ -11,5 +11,5 @@ protocol MainViewOutput {
     
     func viewIsReady()
     func doSearch(text: String) -> [VerbEntity]
-    func showDetails()
+    func showDetails(verb: VerbEntity)
 }
